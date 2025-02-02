@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="style.css">
+<head>
+  <title>Vue.js v-for Example</title>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
+  <script src="aes.js"></script>
+  <script src="password.js"></script>
+  <script src="data.js"></script>
+</head>
+<body>
+  <div id="app">
+    <div>  
+      <label for="filterInput">Filter</label>
+      <input type="text" id="filterInput" name="filterInput" v-model="searchText" ><br><br>
+    </div>
+	<details v-for="item in filteredItems">
+	  <summary><div><h1 class="summary"><object :data="item.feet" type="image/svg+xml"></object>{{ item.title }}</div></h1></summary>
+	  <div>
+		<div v-for="tip in item.tips" class="tip">
+		  <div>{{tip.title}}:</div><div>{{tip.text}}</div>
+		  <div v-if="tip.url != undefined"><a :href="baseurl + tip.url"> Film</a></div>
+		</div>
+	  </div> 
+	</details>
+  </div>
+
+  <script>
+    new Vue({
+      el: '#app',
+      data() {
+        return {
+		  searchText: localStorage.getItem("searchText"),
+		  encryptedUrl: "MTAwMDAwMA==.iGdZ469RL7g6m24fkyQzNEvjM0VVQQg353KcvkhpZTQ=.BrulzarL6HUUc2+Z.h+lIlUoMcXqMEdMgdtgjzUacvZKRq709YvWB/rbKmbildTq6Z0sGyIrHe56zi1nW6Z3gb/6FOw==",
+		  baseurl: localStorage.getItem("baseUrl"), 
+          items: data
+        };
+      },
+	  computed: {
+	    filteredItems() {
+		  localStorage.setItem("searchText", this.searchText);
+		  if (this.searchText.startsWith("pwd=") && this.searchText.endsWith('s')) {
+			this.fetchUrl(this.searchText.substring(4));			
+		  }
+		  return this.items.filter(item => item.title.toLowerCase().includes(this.searchText));
+		}
+	  },
+	  methods: {
+		async fetchUrl(password) {
+			try {
+				const url = await decrypt(this.encryptedUrl, password);
+				localStorage.setItem("baseUrl", url);
+				this.baseurl = url;
+			} catch(error) {
+				console.error('blöd' + error);
+			}
+		}
+	  }
+	});
+  </script>
+</body>
+</html>

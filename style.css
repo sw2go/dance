@@ -1,0 +1,40 @@
+html, body {
+  font-family: verdana;
+}
+
+h1 {
+  margin-bottom: 5px;
+}
+object {
+  height: 48px;
+	margin-right: 10px;
+}
+
+.summary {
+	display: inline-flex;
+	align-items: center;
+
+}
+
+details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+
+.tip {
+	display: flex;
+	margin-bottom: 5px;
+}
+
+.tip > div:first-child {
+  width: 108px;
+  font-weight: bold;
+  margin-left: 8px;
+}
+
+.tip > div {
+  margin-left: 16px;
+}

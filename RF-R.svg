@@ -1,0 +1,19 @@
+<svg width="50" height="80" viewBox="0 0 210 336"  xmlns="http://www.w3.org/2000/svg">
+	<g fill="red">
+		<!-- left heel -->
+		<ellipse cx="48" cy="250" rx="34" ry="20" />
+		<!-- left sole -->
+		<ellipse cx="48" cy="140" rx="48" ry="80" />
+	</g>
+		<g fill="green">
+		<!-- right heel -->
+		<ellipse cx="155" cy="250" rx="34" ry="20" />
+		<!-- right sole -->
+		<ellipse cx="155" cy="140" rx="48" ry="80" />
+	</g>
+	<g fill="white">
+		<!-- right arrow to the right -->
+        <polygon points="185,140 160,110 160,170" />
+        <rect x="130" y="135" width="30" height="10" />
+    </g>
+</svg>
