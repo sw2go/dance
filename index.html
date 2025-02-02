@@ -31,30 +31,37 @@
     new Vue({
       el: '#app',
       data() {
+	    let searchText = localStorage.getItem("searchText");
+	    if (!searchText) {
+			searchText = '';
+		}
         return {
-		  searchText: localStorage.getItem("searchText"),
+		  searchText: searchText,
 		  encryptedUrl: "MTAwMDAwMA==.iGdZ469RL7g6m24fkyQzNEvjM0VVQQg353KcvkhpZTQ=.BrulzarL6HUUc2+Z.h+lIlUoMcXqMEdMgdtgjzUacvZKRq709YvWB/rbKmbildTq6Z0sGyIrHe56zi1nW6Z3gb/6FOw==",
-		  baseurl: localStorage.getItem("baseUrl"), 
+		  baseurl: '', 
           items: data
         };
       },
+	  mounted() {
+	    this.fetchUrl();
+	  },
 	  computed: {
 	    filteredItems() {
-		  localStorage.setItem("searchText", this.searchText);
-		  if (this.searchText.startsWith("pwd=") && this.searchText.endsWith('s')) {
-			this.fetchUrl(this.searchText.substring(4));			
-		  }
-		  return this.items.filter(item => item.title.toLowerCase().includes(this.searchText));
+		  const searchText = this.searchText.toLowerCase();
+		  localStorage.setItem("searchText", searchText);
+		  return this.items.filter(item => item.title.toLowerCase().includes(searchText));
 		}
 	  },
 	  methods: {
-		async fetchUrl(password) {
+		async fetchUrl() {
 			try {
-				const url = await decrypt(this.encryptedUrl, password);
-				localStorage.setItem("baseUrl", url);
-				this.baseurl = url;
+              const url = new URL(window.location.href);
+              const params = new URLSearchParams(url.search);
+              const pwd = params.get('pwd');
+              const baseurl = await decrypt(this.encryptedUrl, pwd);
+			  this.baseurl = baseurl;
 			} catch(error) {
-				console.error('blöd' + error);
+			  console.error('blöd' + error);
 			}
 		}
 	  }
