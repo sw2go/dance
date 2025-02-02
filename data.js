@@ -28,7 +28,7 @@ tips: [
 ]
 },
 {
-title: "AK1 Wiener Walzer (Pendel)",
+title: "AK1 Wiener Walzer, Pendel",
 feet:  "LF-L.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 1 2 3", url: "4EEBDsTD-qxRVfpvz.html" }
@@ -84,7 +84,7 @@ tips: [
 ]
 },
 {
-title: "FKA Cha-Cha-Cha",
+title: "FKA Cha-Cha-Cha, Open hip twist & Hockey stick",
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 cha-cha-cha 2 3 cha-cha-cha 2 3", url: "KIRTHp9S-qxRVfpvz.html" }

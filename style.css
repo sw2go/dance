@@ -1,10 +1,10 @@
 html, body {
   font-family: verdana;
-font-size: 12px;
+  font-size: 12px;
 }
 
 input {
-font-size: 16px;
+  font-size: 16px;
 }
 
 h1 {
@@ -12,14 +12,13 @@ h1 {
   margin-bottom: 5px;
 }
 object {
-  height: 24px;
-	margin-right: 10px;
+  height: 32px;
+  margin-right: 10px;
 }
 
 .summary {
-	display: inline-flex;
-	align-items: center;
-
+  display: inline-flex;
+  align-items: center;
 }
 
 details > summary {
@@ -29,16 +28,15 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 
-
 .tip {
-	display: flex;
-	margin-bottom: 5px;
+  display: flex;
+  margin-bottom: 5px;
 }
 
 .tip > div:first-child {
   width: 80px;
   font-weight: bold;
-  margin-left: 8px;
+  margin-left: 4px;
 }
 
 .tip > div {
