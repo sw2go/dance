@@ -1,335 +1,335 @@
 const data = [
 {
-title: "AK1 Cha-Cha-Cha",
+head: { title: "AK1 Cha-Cha-Cha", sub: "" },
 feet:  "RF-R.svg",
 tips: [
 { title: "Zählung", text: "1 2 3 cha-cha-cha 2 3 cha-cha-cha 2 3", url: "OQeB2kZC-qxRVfpvz.html" }
 ]
 },
 {
-title: "AK1 Discofox",
+head: { title: "AK1 Discofox", sub: "" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 tap 1 2 tap", url: "HaF5whZp-qxRVfpvz.html" }
 ]
 },
 {
-title: "AK1 Englisch Walzer",
+head: { title: "AK1 Englisch Walzer", sub: "" },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 1 2 3", url: "roYkrkQM-qxRVfpvz.html" }
 ]
 },
 {
-title: "AK1 Jive",
+head: { title: "AK1 Jive", sub: "" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "Rück Platz Wechselschritt Wechselschritt", url: "zMeC9u04-qxRVfpvz.html" }
 ]
 },
 {
-title: "AK1 Wiener Walzer, Pendel",
+head: { title: "AK1 Wiener Walzer", sub: "Pendel" },
 feet:  "LF-L.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 1 2 3", url: "4EEBDsTD-qxRVfpvz.html" }
 ]
 },
 {
-title: "AK2 Cha-Cha-Cha",
+head: { title: "AK2 Cha-Cha-Cha", sub: "" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 cha-cha-cha 2 3 cha-cha-cha 2 3", url: "sIOtUN8w-qxRVfpvz.html" }
 ]
 },
 {
-title: "AK2 Discofox",
+head: { title: "AK2 Discofox", sub: "" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 tap 1 2 tap", url: "AHn0aFwV-qxRVfpvz.html" }
 ]
 },
 {
-title: "AK2 Englisch Walzer",
+head: { title: "AK2 Englisch Walzer", sub: "" },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 1 2 3", url: "oCZm43im-qxRVfpvz.html" }
 ]
 },
 {
-title: "AK2 Jive",
+head: { title: "AK2 Jive", sub: "" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "Rück Platz Wechselschritt Wechselschritt", url: "31b83DoZ-qxRVfpvz.html" }
 ]
 },
 {
-title: "AK2 Salsa",
+head: { title: "AK2 Salsa", sub: "" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "nJzAC8dy-qxRVfpvz.html" }
 ]
 },
 {
-title: "AK2 Tango",
+head: { title: "AK2 Tango", sub: "" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "slow slow - quick quick slow - quick quick slow", url: "YB4hWZ1z-qxRVfpvz.html" }
 ]
 },
 {
-title: "AK2 Wiener Walzer",
+head: { title: "AK2 Wiener Walzer", sub: "" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 1 2 3", url: "MsmdvXeS-qxRVfpvz.html" }
 ]
 },
 {
-title: "FKA Cha-Cha-Cha, Open hip twist & Hockey stick",
+head: { title: "FKA Cha-Cha-Cha", sub: "Open hip twist & Hockey stick" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 cha-cha-cha 2 3 cha-cha-cha 2 3", url: "KIRTHp9S-qxRVfpvz.html" }
 ]
 },
 {
-title: "FKA Discofox",
+head: { title: "FKA Discofox", sub: "" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 tap 1 2 tap", url: "JDChRWRJ-qxRVfpvz.html" }
 ]
 },
 {
-title: "FKA Englisch Walzer",
+head: { title: "FKA Englisch Walzer", sub: "" },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 1 2 3", url: "VvXkdpN4-qxRVfpvz.html" }
 ]
 },
 {
-title: "FKA Night Club Two Step",
+head: { title: "FKA Night Club Two Step", sub: "" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "m9dblWGp-qxRVfpvz.html" }
 ]
 },
 {
-title: "FKB Jive",
+head: { title: "FKB Jive", sub: "" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "Rück Platz Wechselschritt Wechselschritt", url: "VB1HQ8W7-qxRVfpvz.html" }
 ]
 },
 {
-title: "FKB Quickstep, Quarter Turn & Progressive Chasse",
+head: { title: "FKB Quickstep", sub: "Quarter Turn & Progressive Chasse" },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "slow quick quick slow slow quick quick slow slow", url: "5fUgD1S1-qxRVfpvz.html" }
 ]
 },
 {
-title: "FKB Rumba",
+head: { title: "FKB Rumba", sub: "" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "4-1 2 3 4-1 2 3", url: "CK8AoV23-qxRVfpvz.html" }
 ]
 },
 {
-title: "FKB Salsa",
+head: { title: "FKB Salsa", sub: "" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "2lwufg9E-qxRVfpvz.html" }
 ]
 },
 {
-title: "FKC Discofox",
+head: { title: "FKC Discofox", sub: "" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 tap 1 2 tap", url: "NK2OTQEL-qxRVfpvz.html" }
 ]
 },
 {
-title: "FKC Samba",
+head: { title: "FKC Samba", sub: "" },
 feet:  "LF-L.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "ZiquyCJZ-qxRVfpvz.html" }
 ]
 },
 {
-title: "FKC Tango, Link und Promenade",
+head: { title: "FKC Tango", sub: "Link und Promenade" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "quick quick slow quick quick slow", url: "YowlhyzW-qxRVfpvz.html" }
 ]
 },
 {
-title: "FKC Wiener Walzer, Rechtsdrehung, 3 Pendel, Linksdrehung",
+head: { title: "FKC Wiener Walzer", sub: "Rechtsdrehung, 3 Pendel, Linksdrehung" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 (2) 2 3 (3) 2 3 (4) 2 3", url: "KOPssK03-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOA Cha-Cha-Cha",
+head: { title: "HOA Cha-Cha-Cha", sub: "" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 cha-cha-cha 2 3 cha-cha-cha 2 3", url: "nTuQqhmE-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOA Salsa",
+head: { title: "HOA Salsa", sub: "" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "v5ghOb1a-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOA Jive",
+head: { title: "HOA Jive", sub: "" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "Rück Platz Wechselschritt Wechselschritt", url: "NwEqD2Kh-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOA Night Club Two Step",
+head: { title: "HOA Night Club Two Step", sub: "" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "w8NyxjM2-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOB Discofox",
+head: { title: "HOB Discofox", sub: "" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 tap 1 2 tap", url: "pxFARuLK-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOB Englisch Walzer",
+head: { title: "HOB Englisch Walzer", sub: "" },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 1 2 3", url: "gkEIC5My-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOB Foxtrott",
+head: { title: "HOB Foxtrott", sub: "" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "?", url: "W7PnrV3R-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOB Rumba",
+head: { title: "HOB Rumba", sub: "" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "4-1 2 3 4-1 2 3", url: "MZTtB6Lc-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOB Tango",
+head: { title: "HOB Tango", sub: "" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "?",  url: "hb3a67G5-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOC Cha-Cha-Cha",
+head: { title: "HOC Cha-Cha-Cha", sub: "" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 cha-cha-cha 2 3 cha-cha-cha 2 3", url: "tjmPLvBY-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOC Foxtrott",
+head: { title: "HOC Foxtrott", sub: "" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "slow slow quick quick, slow slow quick quick", url: "q59PijMB-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOC Samba",
+head: { title: "HOC Samba", sub: "" },
 feet:  "LF-L.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "jYNwDdTy-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOC Wiener Walzer",
+head: { title: "HOC Wiener Walzer", sub: "" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "?", url: "wFZzKBQb-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOC Jive",
+head: { title: "HOC Jive", sub: "" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "Rück Platz Wechselschritt Wechselschritt", url: "bH1Yt2I3-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOD Night Club Two Step",
+head: { title: "HOD Night Club Two Step", sub: "" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "0i3OKHh5-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOD Quickstep",
+head: { title: "HOD Quickstep", sub: "" },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "?", url: "ezvQXSBu-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOD Tango",
+head: { title: "HOD Tango", sub: "" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "?", url: "ZG3shcJn-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOD Discofox",
+head: { title: "HOD Discofox", sub: "" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 tap 1 2 tap", url: "FaM0gr7z-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOD Bachata",
+head: { title: "HOD Bachata", sub: "" },
 feet:  "LF-L.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 tap 5 6 7 tap", url: "xJlGgJ16-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOE Cha-Cha-Cha, Handtuch",
+head: { title: "HOE Cha-Cha-Cha", sub: "Handtuch" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 cha-cha-cha 2 3 cha-cha-cha 2 3", url: "EqvVywQr-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOE Englisch Walzer",
+head: { title: "HOE Englisch Walzer", sub: "" },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 1 2 3", url: "twdPNeAg-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOE Jive",
+head: { title: "HOE Jive", sub: "" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "Rück Platz Wechselschritt Wechselschritt", url: "hNJCnBl0-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOE Rumba, 360 Grad, Eindrehen, Fan, Hockey Stick",
+head: { title: "HOE Rumba", sub: "360 Grad, Eindrehen, Fan, Hockey Stick" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "4-1 2 3 4-1 2 3", url: "utbIcYbG-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOF Discofox",
+head: { title: "HOF Discofox", sub: "" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 tap 1 2 tap", url: "vDzft4fi-qxRVfpvz.html" },
@@ -337,14 +337,14 @@ tips: [
 ]
 },
 {
-title: "HOF Quickstep",
+head: { title: "HOF Quickstep", sub: "" },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "?", url: "zxG77vCo-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOF Salsa, Enchufla mit Abstoppen, Enchufla - Dile que no",
+head: { title: "HOF Salsa", sub: "Enchufla mit Abstoppen, Enchufla - Dile que no" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "IbcCdKGj-qxRVfpvz.html" },
@@ -352,7 +352,7 @@ tips: [
 ]
 },
 {
-title: "HOF Samba, Voltas",
+head: { title: "HOF Samba", sub: "Voltas" },
 feet:  "LF-L.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "O3j1zRvh-qxRVfpvz.html" },
@@ -360,49 +360,49 @@ tips: [
 ]
 },
 {
-title: "HOF Tango, 5-er Schritt in die Ecke",
+head: { title: "HOF Tango", sub: "5-er Schritt in die Ecke" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 4 drehen(slow), slow quick quick slow", url: "s5u3MEcd-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOG Wiener Walzer",
+head: { title: "HOG Wiener Walzer", sub: "" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "?",  url: "RPzd0fZX-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOG Rumba",
+head: { title: "HOG Rumba", sub: "" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "4-1 2 3 4-1 2 3", url: "Ng5GnRGz-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOG Quickstep",
+head: { title: "HOG Quickstep", sub: "" },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "?", url: "Fm1Oly20-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOG Jive",
+head: { title: "HOG Jive", sub: "" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "Rück Platz Wechselschritt Wechselschritt", url: "tlP2U6Y8-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOG Bachata (Würger)",
+head: { title: "HOG Bachata", sub: "Würger" },
 feet:  "LF-L.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 tap 5 6 7 tap", url: "gJfWFjRv-qxRVfpvz.html" }
 ]
 },
 {
-title: "HOG Bachata",
+head: { title: "HOG Bachata", sub: "" },
 feet:  "LF-L.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 tap 5 6 7 tap", url: "ihBUO2vq-qxRVfpvz.html" }

@@ -4,7 +4,8 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="style.css">
 <head>
-  <title>Vue.js v-for Example</title>
+  <title>Dance</title>
+  <link rel="icon" href="RF-F.svg" type="image/svg+xml">
   <script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
   <script src="aes.js"></script>
   <script src="password.js"></script>
@@ -17,7 +18,10 @@
       <input type="text" id="filterInput" name="filterInput" v-model="searchText" ><br><br>
     </div>
 	<details v-for="item in filteredItems">
-	  <summary><div><h1 class="summary"><object :data="item.feet" type="image/svg+xml"></object>{{ item.title }}</div></h1></summary>
+	  <summary>
+	    <div><h1 class="summary"><object :data="item.feet" type="image/svg+xml"></object>{{ item.head.title }}</div></h1>
+		<h2>{{ item.head.sub }}</h2>
+	  </summary>
 	  <div>
 		<div v-for="tip in item.tips" class="tip">
 		  <div>{{tip.title}}:</div><div>{{tip.text}}</div>
@@ -49,7 +53,7 @@
 	    filteredItems() {
 		  const searchText = this.searchText.toLowerCase();
 		  localStorage.setItem("searchText", searchText);
-		  return this.items.filter(item => item.title.toLowerCase().includes(searchText));
+		  return this.items.filter(item => item.head.title.toLowerCase().includes(searchText));
 		}
 	  },
 	  methods: {
@@ -61,7 +65,7 @@
               const baseurl = await decrypt(this.encryptedUrl, pwd);
 			  this.baseurl = baseurl;
 			} catch(error) {
-			  console.error('blöd' + error);
+			  console.error('bad pwd' + error);
 			}
 		}
 	  }

@@ -8,9 +8,16 @@ input {
 }
 
 h1 {
-  font-size: 16px;
+  font-size: 20px;
   margin-bottom: 5px;
 }
+
+h2 {
+  font-size: 16px;
+  margin-left: 4px;
+  margin-top: 0px;
+}
+
 object {
   height: 32px;
   margin-right: 10px;
