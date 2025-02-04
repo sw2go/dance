@@ -84,7 +84,7 @@ tips: [
 ]
 },
 {
-head: { title: "FKA Cha-Cha-Cha", sub: "Open hip twist & Hockey stick" },
+head: { title: "FKA Cha-Cha-Cha", sub: "Open Hip Twist & Hockey Stick" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 cha-cha-cha 2 3 cha-cha-cha 2 3", url: "KIRTHp9S-qxRVfpvz.html" }
@@ -98,10 +98,12 @@ tips: [
 ]
 },
 {
-head: { title: "FKA Englisch Walzer", sub: "" },
+head: { title: "FKA Englisch Walzer", sub: "Diagonale, Spin Turn" },
 feet:  "RF-F.svg",
 tips: [
-  { title: "Zählung", text: "1 2 3 1 2 3", url: "VvXkdpN4-qxRVfpvz.html" }
+  { title: "Zählung", text: "1 2 3 1 2 3", url: "VvXkdpN4-qxRVfpvz.html" },
+  { title: "Diagonale", text: "45 zur Wand, 2 Takt Rechtsdrehung, 1 Wechselschritt, 2 Takt Linksdrehung, es ist wie ein liegendes Y " },
+  { title: "Spin Turn", text: "links zurück wippen, vor wippen, zurück wippen" }
 ]
 },
 {
@@ -329,18 +331,20 @@ tips: [
 ]
 },
 {
-head: { title: "HOF Discofox", sub: "" },
+head: { title: "HOF Discofox", sub: "Anlehnen" },
 feet:  "LF-F.svg",
 tips: [
-  { title: "Zählung", text: "1 2 tap 1 2 tap", url: "vDzft4fi-qxRVfpvz.html" },
-  { title: "Anlehen", text: "Beim letzten Schmetterling mit rechter Hand Frau zu meiner Hüfte ziehen und dann rausschicken, dann beim Anlehnen Frau nicht oben sondern bei der Hüfte halten" }
+  { title: "Zählung", text: "12ä3 12ä3 123 bei 3 breit stehenbleiben", url: "vDzft4fi-qxRVfpvz.html" },
+  { title: "Anlehen", text: "Bei letztem 1 mit rechtem Arm gestreckt nach unten hinten ziehen und mit der linken Hand die Hand der Frau wegwerfen :-)" }
 ]
 },
 {
-head: { title: "HOF Quickstep", sub: "" },
+head: { title: "HOF Quickstep", sub: "Progressive Chasse, Natural Spin Turn" },
 feet:  "RF-F.svg",
 tips: [
-  { title: "Zählung", text: "?", url: "zxG77vCo-qxRVfpvz.html" }
+  { title: "Zählung", text: "slow quick quick slow (sqqs) bei quick ist man auf den Zehen", url: "zxG77vCo-qxRVfpvz.html" },
+  { title: "Prog. Chasse", text: "sqqs" },
+  { title: "N. Spin Turn", text: "sqqsss"}
 ]
 },
 {

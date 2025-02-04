@@ -41,7 +41,7 @@ details > summary::-webkit-details-marker {
 }
 
 .tip > div:first-child {
-  width: 80px;
+  width: 100px;
   font-weight: bold;
   margin-left: 4px;
 }
