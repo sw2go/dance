@@ -25,7 +25,8 @@
 	  <div>
 		<div v-for="tip in item.tips" class="tip">
 		  <div>{{tip.title}}:</div><div>{{tip.text}}</div>
-		  <div v-if="tip.url != undefined"><a :href="baseurl + tip.url"> Film</a></div>
+		  <div v-if="tip.url != undefined && !tip.url.startsWith('http')"><a :href="baseurl + tip.url"> Film</a></div>
+		  <div v-if="tip.url != undefined && tip.url.startsWith('http')"><a :href="tip.url"> Film</a></div>
 		</div>
 	  </div> 
 	</details>
@@ -65,7 +66,7 @@
               const baseurl = await decrypt(this.encryptedUrl, pwd);
 			  this.baseurl = baseurl;
 			} catch(error) {
-			  console.error('bad pwd' + error);
+			  console.error('missing or invalid query parameter pwd\n' + error);
 			}
 		}
 	  }

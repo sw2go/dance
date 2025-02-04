@@ -342,16 +342,15 @@ tips: [
 head: { title: "HOF Quickstep", sub: "Progressive Chasse, Natural Spin Turn" },
 feet:  "RF-F.svg",
 tips: [
-  { title: "Zählung", text: "slow quick quick slow (sqqs) bei quick ist man auf den Zehen", url: "zxG77vCo-qxRVfpvz.html" },
-  { title: "Prog. Chasse", text: "sqqs" },
-  { title: "N. Spin Turn", text: "sqqsss"}
+  { title: "Prog. Chasse", text: "SQQS bei Quick ist man auf den Zehen", url: "zxG77vCo-qxRVfpvz.html" },
+  { title: "N. Spin Turn", text: "SQQSSS", url: "https://www.youtube.com/watch?v=iHAdTYyLV0A&t=0s"}
 ]
 },
 {
 head: { title: "HOF Salsa", sub: "Enchufla mit Abstoppen, Enchufla - Dile que no" },
 feet:  "LF-B.svg",
 tips: [
-  { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "IbcCdKGj-qxRVfpvz.html" },
+  { title: "Zählung", text: "123- 567-", url: "IbcCdKGj-qxRVfpvz.html" },
   { title: "Dile que no", text: "Enchufla (Frau dreht unten durch), sie rechts zurück ich links vor" }
 ]
 },
@@ -359,7 +358,7 @@ tips: [
 head: { title: "HOF Samba", sub: "Voltas" },
 feet:  "LF-L.svg",
 tips: [
-  { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "O3j1zRvh-qxRVfpvz.html" },
+  { title: "Zählung", text: "123- 567-", url: "O3j1zRvh-qxRVfpvz.html" },
   { title: "Voltas",  text: "Whisks, 1 Samba Walk, 1 Side Samba Walk, beim Side Samba Walk Frau etwas nach vorne schieben, dann Voltas 1-ä2-ä3-äChere 1-ä2-ä3-ä4" }, 
 ]
 },
@@ -367,7 +366,7 @@ tips: [
 head: { title: "HOF Tango", sub: "5-er Schritt in die Ecke" },
 feet:  "LF-F.svg",
 tips: [
-  { title: "Zählung", text: "1 2 3 4 drehen(slow), slow quick quick slow", url: "s5u3MEcd-qxRVfpvz.html" }
+  { title: "Zählung", text: "QQQQS SQQS (vor rück rück rück drehen     ", url: "s5u3MEcd-qxRVfpvz.html" }
 ]
 },
 {
