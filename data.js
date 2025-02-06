@@ -342,8 +342,11 @@ tips: [
 head: { title: "HOF Quickstep", sub: "Progressive Chasse, Natural Spin Turn" },
 feet:  "RF-F.svg",
 tips: [
-  { title: "Prog. Chasse", text: "SQQS bei Quick ist man auf den Zehen", url: "zxG77vCo-qxRVfpvz.html" },
-  { title: "N. Spin Turn", text: "SQQSSS", url: "https://www.youtube.com/watch?v=iHAdTYyLV0A&t=0s"}
+  { title: "Prog. Chasse", text: "SQQS ... slow quick quick slow", url: "zxG77vCo-qxRVfpvz.html" },
+  { title: "",             text: "1-tata-4, 1-tata-4, 1 und 4 sind immer lange Schritte, immer das rechte Bein führt, auf 1 rechts vor, dann auf 1 rechts zurück etc." },
+  { title: "N. Spin Turn", text: "SQQSSS", url: "https://www.youtube.com/watch?v=iHAdTYyLV0A&t=0s&start=60"},
+  { title: "",             text: "1-tata, 1-2-3, 1-tata-4, ... nach 1-tata schliessen, statt 4 auf 1 zurück und drehend 3 mal wippen, dann auf 1 rechts zurück etc." }
+
 ]
 },
 {
