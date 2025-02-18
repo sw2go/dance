@@ -334,8 +334,9 @@ tips: [
 head: { title: "HOF Discofox", sub: "Anlehnen" },
 feet:  "LF-F.svg",
 tips: [
-  { title: "Zählung", text: "12ä3 12ä3 123 bei 3 breit stehenbleiben", url: "vDzft4fi-qxRVfpvz.html" },
-  { title: "Anlehen", text: "Bei letztem 1 mit rechtem Arm gestreckt nach unten hinten ziehen und mit der linken Hand die Hand der Frau wegwerfen :-)" }
+  { title: "Zählung",  text: "12ä3 12ä3 123 bei 3 breit stehenbleiben", url: "vDzft4fi-qxRVfpvz.html" },
+  { title: "Anlehen",  text: "Mit Schmetterling zu Beginn, beim letzten 1 mit rechtem Arm gestreckt nach unten hinten ziehen und mit der linken Hand die Hand der Dame wegwerfen :-)" },
+  { title: "Anlehen2", text: "Vorbereitung, linke Hand umgreifen von unten, dann Dame nach links ausleeren, sie dreht hinaus und kommt dann vorne herum wo Herr sie auf der rechten Seite mit Rechts übernimmt, dann wie oben .. " }
 ]
 },
 {
@@ -345,8 +346,8 @@ tips: [
   { title: "Prog. Chasse", text: "SQQS ... slow quick quick slow", url: "zxG77vCo-qxRVfpvz.html" },
   { title: "",             text: "1-tata-4, 1-tata-4, 1 und 4 sind immer lange Schritte, immer das rechte Bein führt, auf 1 rechts vor, dann auf 1 rechts zurück etc." },
   { title: "N. Spin Turn", text: "SQQSSS", url: "https://www.youtube.com/watch?v=iHAdTYyLV0A&t=0s&start=60"},
-  { title: "",             text: "1-tata, 1-2-3, 1-tata-4, ... nach 1-tata schliessen, statt 4 auf 1 zurück und drehend 3 mal wippen, dann auf 1 rechts zurück etc." }
-
+  { title: "",             text: "1-tata, 1-2-3, 1-tata-4, ... nach 1-tata schliessen, statt 4 auf 1 zurück und drehend 3 mal wippen, dann auf 1 rechts zurück etc." },
+  { title: "Lockstep",     text: "auf 1 rechts vor, dann erneut auf 1 rechts vor und beim 2. quick rechten Fuss hinten einkreuzen" }
 ]
 },
 {
@@ -369,7 +370,8 @@ tips: [
 head: { title: "HOF Tango", sub: "5-er Schritt in die Ecke" },
 feet:  "LF-F.svg",
 tips: [
-  { title: "Zählung", text: "QQQQS SQQS (vor rück rück rück drehen     ", url: "s5u3MEcd-qxRVfpvz.html" }
+  { title: "Zählung", text: "QQQQS SQQS (vor rück rück rück drehen     ", url: "s5u3MEcd-qxRVfpvz.html" },
+  { title: "Alles", text: "Lang-Lang-Wip-Wip-Schliessen - Lang-Lang-Promenade(lang) - Promenade - 1234-dreh-SQQS", url: "s5u3MEcd-qxRVfpvz.html" }
 ]
 },
 {
@@ -412,6 +414,13 @@ head: { title: "HOG Bachata", sub: "" },
 feet:  "LF-L.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 tap 5 6 7 tap", url: "ihBUO2vq-qxRVfpvz.html" }
+]
+},
+{
+head: { title: "Liebscher Bracht", sub: "" },
+feet:  "LF-L.svg",
+tips: [
+  { title: "Übung", text: "30 Minunten", url: "https://youtu.be/xSUB5FcPyqQ" }
 ]
 }
 ]
