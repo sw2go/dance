@@ -327,7 +327,9 @@ tips: [
 head: { title: "HOE Rumba", sub: "360 Grad, Eindrehen, Fan, Hockey Stick" },
 feet:  "RF-R.svg",
 tips: [
-  { title: "Zählung", text: "4-1 2 3 4-1 2 3", url: "utbIcYbG-qxRVfpvz.html" }
+  { title: "Zählung", text: "4-1 2 3 4-1 2 3", url: "utbIcYbG-qxRVfpvz.html" },
+  { title: "Song", text: "Camila Cabello - Havana", url: "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W" }
+  
 ]
 },
 {
