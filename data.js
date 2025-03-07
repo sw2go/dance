@@ -387,21 +387,30 @@ tips: [
 head: { title: "HOG Rumba", sub: "" },
 feet:  "RF-R.svg",
 tips: [
-  { title: "Zählung", text: "4-1 2 3 4-1 2 3", url: "Ng5GnRGz-qxRVfpvz.html" }
+  { title: "Zählung", text: "4-1 2 3 4-1 2 3", url: "Ng5GnRGz-qxRVfpvz.html" },
+  { title: "Zählung", text: "nach der linken 360 Drehung mit der rechten Hand die Dame nach links zum Innenschwan führen" },
+  { title: "Zählung", text: "wenn man wieder zurück will links die Hand anbieten zum abstossen für 360 Drehung" },
 ]
 },
 {
 head: { title: "HOG Quickstep", sub: "" },
 feet:  "RF-F.svg",
 tips: [
-  { title: "Zählung", text: "?", url: "Fm1Oly20-qxRVfpvz.html" }
+  { title: "Zählung",    text: "?", url: "Fm1Oly20-qxRVfpvz.html" },
+  { title: "Spin m. C.", text: "SQQSSS SQQS ... Spin dann Chasse damit man wieder rechts vor kann     "  },
+  { title: "1/2 mit H.", text: "SQQSS- ... SQQ12- beginnt wie Spin, aber statt 123, Hä-Si und bei Täit links zuziehen" },
+  { title: "Dreieck",    text: "SQQSSS ... SQQS123 dann Start mit links wie wenn Chasse und dann Outside-Turn 123  " },
+  { title: "Lockstep",   text: "SQQS   " },
+  { title: "Spin",       text: "SQQSSS"  },
 ]
 },
 {
 head: { title: "HOG Jive", sub: "" },
 feet:  "LF-B.svg",
 tips: [
-  { title: "Zählung", text: "Rück Platz Wechselschritt Wechselschritt", url: "tlP2U6Y8-qxRVfpvz.html" }
+  { title: "Zählung", text: "Rück Platz Wechselschritt Wechselschritt", url: "tlP2U6Y8-qxRVfpvz.html" },
+  { title: "Zählung", text: "Beide Hände halten, rechts hoch im Uhrzeigersinn ins Körbli" },
+    { title: "Zählung", text: "Beide Hände halten, Herr unten durch" },
 ]
 },
 {
