@@ -408,9 +408,11 @@ tips: [
 head: { title: "HOG Jive", sub: "" },
 feet:  "LF-B.svg",
 tips: [
-  { title: "Zählung", text: "Rück Platz Wechselschritt Wechselschritt", url: "tlP2U6Y8-qxRVfpvz.html" },
-  { title: "Zählung", text: "Beide Hände halten, rechts hoch im Uhrzeigersinn ins Körbli" },
-    { title: "Zählung", text: "Beide Hände halten, Herr unten durch" },
+  { title: "2-Händiges", text: "Rück Platz Wechselschritt Wechselschritt, eng bleiben bei dieser Kombi", url: "tlP2U6Y8-qxRVfpvz.html" },
+  { title: "Körbli", text: "Beide Hände halten, dann mit rechter Hand hoch und Dame im Uhrzeigersinn ins Körbli drehen, dann gleich wieder zurück" },
+  { title: "Platzwechsel", text: "nicht sicher: Nun Herr links unten durch (beide Hände hoch und immer noch halten)" },
+  { title: "Bretzel", text: "Dann Auflösen (alles zurück), dann mit linker Hand hoch und Dame im Uhrzeigersinn ins Bretzel drehen (Herr dreht auch ein)" },
+  { title: "", text: "Auflösung indem mit rechter Hand Dame hinter den Rücken des Herrn schieben" },
 ]
 },
 {
