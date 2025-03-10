@@ -1,6 +1,16 @@
 html, body {
   font-family: verdana;
   font-size: 12px;
+  padding-top: 24px;
+}
+
+.header {
+    position: fixed;
+	top: 8px;
+	margin-top: -8px;
+	padding-top: 16px;
+	width: 100%;
+	background-color: white;
 }
 
 input {

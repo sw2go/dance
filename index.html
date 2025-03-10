@@ -13,10 +13,11 @@
 </head>
 <body>
   <div id="app">
-    <div>  
+    <div class="header">  
       <label for="filterInput">Filter</label>
       <input type="text" id="filterInput" name="filterInput" v-model="searchText" ><br><br>
     </div>
+	<div class="content">
 	<details v-for="item in filteredItems">
 	  <summary>
 	    <div><h1 class="summary"><object :data="item.feet" type="image/svg+xml"></object>{{ item.head.title }}</div></h1>
@@ -30,6 +31,8 @@
 		</div>
 	  </div> 
 	</details>
+	
+	</div>
   </div>
 
   <script>

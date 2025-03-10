@@ -310,7 +310,7 @@ tips: [
 ]
 },
 {
-head: { title: "HOE Englisch Walzer", sub: "" },
+head: { title: "HOE Englisch Walzer", sub: "Impetus - Reef (Flechte)" },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 1 2 3", url: "twdPNeAg-qxRVfpvz.html" }
@@ -397,9 +397,9 @@ head: { title: "HOG Quickstep", sub: "" },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung",    text: "?", url: "Fm1Oly20-qxRVfpvz.html" },
-  { title: "Spin m. C.", text: "SQQSSS SQQS ... Spin dann Chasse damit man wieder rechts vor kann     "  },
+  { title: "Spin m. C.", text: "SQQSSS SQQS ... Spin dann Chasse damit man wieder rechts vor kann"  },
   { title: "1/2 mit H.", text: "SQQSS- ... SQQ12- beginnt wie Spin, aber statt 123, Hä-Si und bei Täit links zuziehen" },
-  { title: "Dreieck",    text: "SQQSSS ... SQQS123 dann Start mit links wie wenn Chasse und dann Outside-Turn 123  " },
+  { title: "Dreieck",    text: "SQQSSS ... SQQ123 dann Start mit links wie wenn Chasse SQQ und dann Outside-Turn 123" },
   { title: "Lockstep",   text: "SQQS   " },
   { title: "Spin",       text: "SQQSSS"  },
 ]
@@ -409,10 +409,11 @@ head: { title: "HOG Jive", sub: "" },
 feet:  "LF-B.svg",
 tips: [
   { title: "2-Händiges", text: "Rück Platz Wechselschritt Wechselschritt, eng bleiben bei dieser Kombi", url: "tlP2U6Y8-qxRVfpvz.html" },
-  { title: "Körbli", text: "Beide Hände halten, dann mit rechter Hand hoch und Dame im Uhrzeigersinn ins Körbli drehen, dann gleich wieder zurück" },
-  { title: "Platzwechsel", text: "nicht sicher: Nun Herr links unten durch (beide Hände hoch und immer noch halten)" },
-  { title: "Bretzel", text: "Dann Auflösen (alles zurück), dann mit linker Hand hoch und Dame im Uhrzeigersinn ins Bretzel drehen (Herr dreht auch ein)" },
-  { title: "", text: "Auflösung indem mit rechter Hand Dame hinter den Rücken des Herrn schieben" },
+  { title: "Körbli", text: "Beide Hände halten, dann mit rechter Hand hoch und Dame im Uhrzeigersinn ins Körbli drehen" },
+  { title: "Weiterdrehen", text: "Dame aus dem Körbli holen und weiter im Uhrzeigersinn drehen, Hände sind nun überkreuzt" },
+  { title: "Platzwechsel", text: "Herr im Gegenuhrzeigersinn unten durchdrehen, Hände sind nun wieder normal" },
+  { title: "Bretzel", text: "Linke Hand hoch und Dame im Uhrzeigersinn ins Bretzel drehen (Herr dreht auch ein)" },
+  { title: "", text: "Auflösung: Mit rechter Hand Dame hinter den Rücken des Herrn schieben" },
 ]
 },
 {
