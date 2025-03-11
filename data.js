@@ -313,7 +313,8 @@ tips: [
 head: { title: "HOE Englisch Walzer", sub: "Impetus - Reef (Flechte)" },
 feet:  "RF-F.svg",
 tips: [
-  { title: "Zählung", text: "1 2 3 1 2 3", url: "twdPNeAg-qxRVfpvz.html" }
+  { title: "Zählung", text: "1 2 3 1 2 3", url: "twdPNeAg-qxRVfpvz.html" },
+  { title: "youtube", text: "..", url: "https://www.youtube.com/watch?v=hLWmJ_NyzJw" }
 ]
 },
 {
@@ -384,16 +385,18 @@ tips: [
 ]
 },
 {
-head: { title: "HOG Rumba", sub: "" },
+head: { title: "HOG Rumba", sub: "New-Yorker aussen und Hand to Hand" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "4-1 2 3 4-1 2 3", url: "Ng5GnRGz-qxRVfpvz.html" },
-  { title: "Zählung", text: "nach der linken 360 Drehung mit der rechten Hand die Dame nach links zum Innenschwan führen" },
-  { title: "Zählung", text: "wenn man wieder zurück will links die Hand anbieten zum abstossen für 360 Drehung" },
+  { title: "NewYorker a.", text: "New-Yorker nach aussen, jeweils mit dem Innenfuss vor" },  
+  { title: "Spot Turn", text: "Spot Turn nach links als Übergang für den 'Hand to Hand'. Nach dem Turn die Dame mit der rechten Hand mit einer Schaufelbewegung führen und Aussenfuss zurück" },
+  { title: "Hand to Hand", text: "Hand to Hand, jeweils mit dem Aussenfuss zurück" },
+  { title: "", text: "wenn man aus dem Hand to Hand wieder zurück will links die Hand anbieten zum Spot Turn" },
 ]
 },
 {
-head: { title: "HOG Quickstep", sub: "" },
+head: { title: "HOG Quickstep", sub: "Spin-Turn, 1/2 Turn mit Hesitation, Dreieck, Lockstep ..." },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung",    text: "?", url: "Fm1Oly20-qxRVfpvz.html" },
@@ -405,10 +408,11 @@ tips: [
 ]
 },
 {
-head: { title: "HOG Jive", sub: "" },
+head: { title: "HOG Jive", sub: "Kick Ball Change, 2-Händig, Körbli, Platzwechsel, Bretzel" },
 feet:  "LF-B.svg",
 tips: [
-  { title: "2-Händiges", text: "Rück Platz Wechselschritt Wechselschritt, eng bleiben bei dieser Kombi", url: "tlP2U6Y8-qxRVfpvz.html" },
+  { title: "Kick Ball Change", text: "Kick Ball Change statt Rück Platz", url: "tlP2U6Y8-qxRVfpvz.html" },
+  { title: "2-Händig", text: "Bei der folgenden 2-händigen Kombi kleine Schritte und eng bleiben" },
   { title: "Körbli", text: "Beide Hände halten, dann mit rechter Hand hoch und Dame im Uhrzeigersinn ins Körbli drehen" },
   { title: "Weiterdrehen", text: "Dame aus dem Körbli holen und weiter im Uhrzeigersinn drehen, Hände sind nun überkreuzt" },
   { title: "Platzwechsel", text: "Herr im Gegenuhrzeigersinn unten durchdrehen, Hände sind nun wieder normal" },
@@ -434,7 +438,7 @@ tips: [
 head: { title: "Liebscher Bracht", sub: "" },
 feet:  "LF-L.svg",
 tips: [
-  { title: "Übung", text: "30 Minunten", url: "https://youtu.be/xSUB5FcPyqQ" }
+  { title: "Übung", text: "30 Minuten", url: "https://youtu.be/xSUB5FcPyqQ" }
 ]
 }
 ]
