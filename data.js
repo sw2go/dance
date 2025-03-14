@@ -325,7 +325,7 @@ tips: [
 ]
 },
 {
-head: { title: "HOE Rumba", sub: "360 Grad, Eindrehen, Fan, Hockey Stick" },
+head: { title: "HOE Rumba", sub: "360°, Eindrehen, Fan, Hockey Stick" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "4-1 2 3 4-1 2 3", url: "utbIcYbG-qxRVfpvz.html" },
@@ -399,11 +399,13 @@ tips: [
 head: { title: "HOG Quickstep", sub: "Spin-Turn, 1/2 Turn mit Hesitation, Dreieck, Lockstep ..." },
 feet:  "RF-F.svg",
 tips: [
-  { title: "Zählung",    text: "?", url: "Fm1Oly20-qxRVfpvz.html" },
-  { title: "Spin m. C.", text: "SQQSSS SQQS ... Spin dann Chasse damit man wieder rechts vor kann"  },
-  { title: "1/2 mit H.", text: "SQQSS- ... SQQ12- beginnt wie Spin, aber statt 123, Hä-Si und bei Täit links zuziehen" },
-  { title: "Dreieck",    text: "SQQSSS ... SQQ123 dann Start mit links wie wenn Chasse SQQ und dann Outside-Turn 123" },
-  { title: "Lockstep",   text: "SQQS   " },
+  { title: "Tipp",    text: "Mit dem rechten Arm führen, nicht mit der linken Hand (ev. sogar links loslassen, Dame versetzt weit rechts im Arm", url: "Fm1Oly20-qxRVfpvz.html" },
+  { title: "Spin",       text: "SQQSSS ... Spin"  },
+  { title: "Chasse",     text: "SQQS   ... ein Chasse, damit man für das nächste wieder auf rechts vor kommt ... diese Chasse bis zum Beginn des Dreieck ist alles gerade in Tanzrichtung"  }, 
+  { title: "1/2 mit H.", text: "SQQSS- ... wie Spin aber auf 2 wirklich 180° nach rechts drehen und voll belasten und in die Länge streben und linken Fuss unbelastet zuziehen" },
+  { title: "Chasse",     text: "SQQS   ... nach der Hesitation beginnt das Chasse nun mit links vor und endet mit rechts nach hinten"  },
+  { title: "Dreieck",    text: "SSS    ... Outside-Turn 123 beginnend mit 1 links nach hinten, 2 rechts nach hinten ins Eck und 3 dann links nach vorne" },
+  { title: "Lockstep",   text: "SQQS   ... dann ein Lock-Chasse, beginnend mit rechts vor, bei QQ kreuzt der rechte Fuss hinten ein und das Chasse endet links vor" },
   { title: "Spin",       text: "SQQSSS"  },
 ]
 },
