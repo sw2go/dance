@@ -410,6 +410,17 @@ tips: [
 ]
 },
 {
+head: { title: "HOG Walzer", sub: "Spin-Turn, 1/2 Turn mit Hesitation, Dreieck, ..." },
+feet:  "RF-F.svg",
+tips: [
+  { title: "Spin",           text: "" },
+  { title: "Wechselschritt", text: "damit man wieder auf rechts vor kommt", url: "https://youtu.be/0JnpyYhtE44?t=20" },
+  { title: "1/2 mit H.",     text: "" },
+  { title: "Chasse",         text: "" },
+  { title: "Dreieck",        text: "" }
+]
+},
+{
 head: { title: "HOG Jive", sub: "Kick Ball Change, 2-Händig, Körbli, Platzwechsel, Bretzel" },
 feet:  "LF-B.svg",
 tips: [
