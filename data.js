@@ -107,10 +107,11 @@ tips: [
 ]
 },
 {
-head: { title: "FKA Night Club Two Step", sub: "" },
+head: { title: "FKA Night Club Two Step", sub: "Outside Turn, She Goes - Launch Step" },
 feet:  "LF-B.svg",
 tips: [
-  { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "m9dblWGp-qxRVfpvz.html" }
+  { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "m9dblWGp-qxRVfpvz.html" },
+  { title: "Outside Turn", text: "Die Dame nach Links im Uhrzeigersinn nach aussen drehen lassen", url: "m9dblWGp-qxRVfpvz.html" }
 ]
 },
 {
@@ -184,14 +185,17 @@ tips: [
 ]
 },
 {
-head: { title: "HOA Jive", sub: "" },
+head: { title: "HOA Jive", sub: "Double Cross Whip" },
 feet:  "LF-B.svg",
 tips: [
-  { title: "Zählung", text: "Rück Platz Wechselschritt Wechselschritt", url: "NwEqD2Kh-qxRVfpvz.html" }
+  { title: "Zählung", text: "Rück Platz Wechselschritt Wechselschritt", url: "NwEqD2Kh-qxRVfpvz.html" },
+  { title: "D. Cross Whip", text: "Offener Grundschritt, Nach Rück, Platz weiter vor um Drehung zu beginnen, Wechselschritt nach Links, 1 - 2 - 3 - 4, dann ein Wechselschritt nach rechts" },
+  { title: "2 Kicks", text: "Rück Platz a Kick, Rück Platz a Kick" },
+  { title: "4 WS", text: "Wechselschritt nach innen, nach aussen, nach innen, nach aussen und Outside turn, Wechselschritt nach rechts und dann wieder normal Rück Platz" },
 ]
 },
 {
-head: { title: "HOA Night Club Two Step", sub: "" },
+head: { title: "HOA Night Club Two Step", sub: "Outside turn, Around the world - Launch Step" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "w8NyxjM2-qxRVfpvz.html" }
@@ -212,10 +216,14 @@ tips: [
 ]
 },
 {
-head: { title: "HOB Foxtrott", sub: "" },
+head: { title: "HOB Foxtrott", sub: "Zick-Zack, Outside Turn, Natural Pivot" },
 feet:  "LF-F.svg",
 tips: [
-  { title: "Zählung", text: "?", url: "W7PnrV3R-qxRVfpvz.html" }
+  { title: "Zählung", text: "lang - lang - schnell/schnell", url: "W7PnrV3R-qxRVfpvz.html" },
+  { title: "Zick", text: "Start 45° zur Wand hin, links vor, lang - lang, schnell/schnell in kleinen Schritten (seitwärts und 90° drehen im Uhrzeigersinn)" },
+  { title: "Zack", text: "Nun 45° von Wand weg, links zurück, lang - lang, schnell/schnell in kleinen Schritten (seitwärts und 90° zurückdrehen), jetzt sind wir wieder wie beim Start, etc. Zick-Zack ..." },
+  { title: "Outside Turn", text: "Anstelle von vor, öffnen und das lang - lang mehr seitwärts machen und die Dame im Uhrzeigersinn unter dem linken Arm drehen lassen, auch mehrfach. Beenden indem sich der Herr der Dame wieder in den Weg stellt" },
+  { title: "Natural Pivot", text: "Anstelle von zurück, auf zurück lang - lang wippend und dabei ca 180° drehen, schnell/schnell, dies auch mehrfach, Beenden indem statt wippen wieder lang - lang rückwärts im Zick-Zack" }, 
 ]
 },
 {
