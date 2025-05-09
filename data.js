@@ -189,10 +189,11 @@ head: { title: "HOA Jive", sub: "Double Cross Whip" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "Rück Platz Wechselschritt Wechselschritt", url: "NwEqD2Kh-qxRVfpvz.html" },
-  { title: "D. Cross Whip", text: "Offener Grundschritt, Nach Rück, Platz weiter vor um Drehung zu beginnen, Wechselschritt nach Links, 1 - 2 - 3 - 4, dann ein Wechselschritt nach rechts" },
+  { title: "D. Cross Whip", text: "Offener Grundschritt, Nach Rück-Platz mit dem Wechselschritt 90° zur Dame drehen, 1* - 2 - 3* - 4 (* = rechts nach hinten Einkreuzen auf Spitze), und mit Wechselschritt nach rechts" },
   { title: "2 Kicks", text: "Rück Platz a Kick, Rück Platz a Kick" },
-  { title: "4 WS", text: "Wechselschritt nach innen, nach aussen, nach innen, nach aussen und Outside turn, Wechselschritt nach rechts und dann wieder normal Rück Platz" },
-]
+  { title: "Promenade", text: "WS nach links (einander zugewandt), WS nach vorne (in Tranzrichtung), WS nach links, WS nach vorne, etc. ... auf WS nach links mit Outside turn abschliessen" },
+  { title: "Outside turn", text: "Mit Beginn des Wechselschritt nach links Dame auslösen und rausschicken, Wechselschritt nach rechts, Rück Platz (Dame ist draussen),dann über WS WS Dame wieder zurückholen" },
+] 
 },
 {
 head: { title: "HOA Night Club Two Step", sub: "Outside turn, Around the world - Launch Step" },
