@@ -203,17 +203,24 @@ tips: [
 ]
 },
 {
-head: { title: "HOB Discofox", sub: "" },
+head: { title: "HOB Discofox", sub: "Würger, Platzwechsel, Flirt" },
 feet:  "LF-F.svg",
 tips: [
-  { title: "Zählung", text: "1 2 tap 1 2 tap", url: "pxFARuLK-qxRVfpvz.html" }
+  { title: "Zählung", text: "1 2 tap 1 2 tap", url: "pxFARuLK-qxRVfpvz.html" },
+  { title: "Outside turn", text: "Um auf Grüezihaltung zu kommen, wenn Dame zurückkommt Hand wechseln" },
+  { title: "Inside turn", text: "Wie bei NC2S, Herr geht um Dame auf die andere Seite" },
+  { title: "Würger", text: "Start aus Grüezihaltung, eindrehen und " },
+  { title: "Flirt1", text: "... " },
+  { title: "Flirt2", text: "Herr seitlich vor zu Dame, mit der linken Hand von links her wie eine Scheitel ziehen und Hand der Dame hinter den Kopf des Herrn führen" }
+  
 ]
 },
 {
-head: { title: "HOB Englisch Walzer", sub: "" },
+head: { title: "HOB Englisch Walzer", sub: "Spin turn, Whisk, Chasse, Rechtsdrehung, Spin turn" },
 feet:  "RF-F.svg",
 tips: [
-  { title: "Zählung", text: "1 2 3 1 2 3", url: "gkEIC5My-qxRVfpvz.html" }
+  { title: "Zählung", text: "1 2 3 1 2 3", url: "gkEIC5My-qxRVfpvz.html" },
+  { title: "Whisk", text: "Links vor und rechts zur Seite dann links nach hinten und belasten, dann rechts vor ins Chasse" }
 ]
 },
 {

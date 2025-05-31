@@ -57,7 +57,11 @@
 	    filteredItems() {
 		  const searchText = this.searchText.toLowerCase();
 		  localStorage.setItem("searchText", searchText);
-		  return this.items.filter(item => item.head.title.toLowerCase().includes(searchText));
+		  return this.items.filter(item => 
+		  {
+			return item.head.title.toLowerCase().includes(searchText)
+					|| item.head.sub.toLowerCase().includes(searchText)
+		  });
 		}
 	  },
 	  methods: {
