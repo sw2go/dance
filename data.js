@@ -242,10 +242,12 @@ tips: [
 ]
 },
 {
-head: { title: "HOB Tango", sub: "" },
+head: { title: "HOB Tango", sub: "Linksdrehung mit Habanera" },
 feet:  "LF-F.svg",
 tips: [
-  { title: "Zählung", text: "?",  url: "hb3a67G5-qxRVfpvz.html" }
+  { title: "Zählung", text: "?",  url: "hb3a67G5-qxRVfpvz.html" },
+  { title: "Teil 1", text: "LLSSL, LL geht vor in einem Halbmond nach Links, mit SS dreht der Herr weiter und stellt sich vor die Dame und L geht nach hinten" },
+  { title: "Teil 2", text: "LSSLRPS, L (Wippe vor) SS (Wippe zurück/vor) L (Wippe zurück) RPS rück platz schliessen" }
 ]
 },
 {
