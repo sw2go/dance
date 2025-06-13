@@ -220,7 +220,10 @@ head: { title: "HOB Englisch Walzer", sub: "Spin turn, Whisk, Chasse, Rechtsdreh
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 1 2 3", url: "gkEIC5My-qxRVfpvz.html" },
-  { title: "Whisk", text: "Links vor und rechts zur Seite dann links nach hinten und belasten, dann rechts vor ins Chasse" }
+  { title: "Whisk",  text: "Links vor und rechts zur Seite dann links nach hinten und belasten, dann rechts vor ins Chasse" },
+  { title: "Chasse", text: "Rechts vor (Lang, Schnell, Schnell) etc. beliebig oft, beim letzten Chasse Dame wieder parallel zum Herrn drehen ..." },
+  { title: "Rechtsdrehung", text: "... dann ganz 'normal' walzermässig Rechts vor - side - schliessen (links an der Dame vorbei)" },
+  { title: "Spin turn",     text: "Links zurück wippen, vor wippen, zurück wippen, dann auf rechts zurück normal weiter ..." },
 ]
 },
 {
@@ -235,10 +238,14 @@ tips: [
 ]
 },
 {
-head: { title: "HOB Rumba", sub: "" },
+head: { title: "HOB Rumba", sub: "Outside turn, Opening out (Cucaracha)" },
 feet:  "RF-R.svg",
 tips: [
-  { title: "Zählung", text: "4-1 2 3 4-1 2 3", url: "MZTtB6Lc-qxRVfpvz.html" }
+  { title: "Zählung", text: "4-1 2 3 4-1 2 3", url: "MZTtB6Lc-qxRVfpvz.html" }, 
+  { title: "Outside turn",  text: "Herr hebt linken Arm, Dame dreht am Platz im Uhrzeigersinn ↻ unten durch, Herr bleibt am Platz und macht ein Schliessen und übernimmt die Dame in den Arm zu seiner Rechten" },
+  { title: "Cucaracha",     text: "Während die Dame rechts ein Rück Platz macht, macht der Herr ein Cucaracha nach links, dann übernimmt er die Dame auf die andere Seite, sie umstreicht dabei den Herrn, und wieder Rück Platz bzw. Cucaracha, Seitenwechsel, etc. " },
+  { title: "Einleitung A.", text: "Während der letzten Übergabe der Dame von links nach rechts, streicht der Herr mit der linken Hand dem Arm der Dame entlang und behält ihre Hand" },  
+  { title: "Abschluss",     text: "Nach dem Rück Platz der Dame, hebt der Herr den linken Arm und führt Dame in einen Inside turn ↺ mit anschliessendem Fan" },
 ]
 },
 {
