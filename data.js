@@ -203,42 +203,43 @@ tips: [
 ]
 },
 {
-head: { title: "HOB Discofox", sub: "Würger, Platzwechsel, Flirt" },
+head: { title: "HOB Discofox", sub: "Würger, Platzwechsel, Flirt1, Flirt2" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 tap 1 2 tap", url: "pxFARuLK-qxRVfpvz.html" },
-  { title: "Outside turn", text: "Um auf Grüezihaltung zu kommen, wenn Dame zurückkommt Hand wechseln" },
-  { title: "Inside turn", text: "Wie bei NC2S, Herr geht um Dame auf die andere Seite" },
-  { title: "Würger", text: "Start aus Grüezihaltung, eindrehen und " },
-  { title: "Flirt1", text: "... " },
-  { title: "Flirt2", text: "Herr seitlich vor zu Dame, mit der linken Hand von links her wie eine Scheitel ziehen und Hand der Dame hinter den Kopf des Herrn führen" }
+  { title: "Outside turn", text: "Um auf Grüezihaltung zu kommen, d.h. wenn Dame zurückkommt Hand wechseln" },
+  { title: "Inside turn", text: "Wie bei NC2S, Herr geht um Dame auf die andere Seite, sie dreht ↺" },
+  { title: "Würger", text: "Start aus Grüezihaltung, eindrehen und Dame rechts seitlich nehmen, dabei auch ihr linke Hand nehmen (oder auch nicht)" },
+  { title: "Ausdrehen", text: "Beidhändig wieder zurück ↻ auf Gegenüberposition" },
+  { title: "Flirt1", text: "dann sich der Dame zuneigen, mit der rechten Hand ihre Hand hinter den Kopf führen und loslassen, und am Ende wieder mit der Linken nehmen" },
+  { title: "Flirt2", text: "Herr seitlich vor zu Dame, mit der linken Hand von links her über den Kopf wie eine Scheitel ziehen und Hand der Dame hinter den Kopf des Herrn führen" }
   
 ]
 },
 {
-head: { title: "HOB Englisch Walzer", sub: "Spin turn, Whisk, Chasse, Rechtsdrehung, Spin turn" },
+head: { title: "HOB Englisch Walzer", sub: "Spin turn, Whisk, Chasse, Rechtsdrehung ↻, Spin turn ↻" },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 1 2 3", url: "gkEIC5My-qxRVfpvz.html" },
-  { title: "Whisk",  text: "Links vor und rechts zur Seite dann links nach hinten und belasten, dann rechts vor ins Chasse" },
+  { title: "Whisk",  text: "Links vor und rechts zur Seite, dann links nach hinten und belasten, dann rechts vor ins Chasse" },
   { title: "Chasse", text: "Rechts vor (Lang, Schnell, Schnell) etc. beliebig oft, beim letzten Chasse Dame wieder parallel zum Herrn drehen ..." },
   { title: "Rechtsdrehung", text: "... dann ganz 'normal' walzermässig Rechts vor - side - schliessen (links an der Dame vorbei)" },
   { title: "Spin turn",     text: "Links zurück wippen, vor wippen, zurück wippen, dann auf rechts zurück normal weiter ..." },
 ]
 },
 {
-head: { title: "HOB Foxtrott", sub: "Zick-Zack, Outside Turn, Natural Pivot" },
+head: { title: "HOB Foxtrott", sub: "Zick-Zack, 👩 Outside Turn ↻, Natural Pivot" },
 feet:  "LF-F.svg",
 tips: [
-  { title: "Zählung", text: "lang - lang - schnell/schnell", url: "W7PnrV3R-qxRVfpvz.html" },
-  { title: "Zick", text: "Start 45° zur Wand hin, links vor, lang - lang, schnell/schnell in kleinen Schritten (seitwärts und 90° drehen im Uhrzeigersinn)" },
-  { title: "Zack", text: "Nun 45° von Wand weg, links zurück, lang - lang, schnell/schnell in kleinen Schritten (seitwärts und 90° zurückdrehen), jetzt sind wir wieder wie beim Start, etc. Zick-Zack ..." },
-  { title: "Outside Turn", text: "Anstelle von vor, öffnen und das lang - lang mehr seitwärts machen und die Dame im Uhrzeigersinn unter dem linken Arm drehen lassen, auch mehrfach. Beenden indem sich der Herr der Dame wieder in den Weg stellt" },
-  { title: "Natural Pivot", text: "Anstelle von zurück, auf zurück lang - lang wippend und dabei ca 180° drehen, schnell/schnell, dies auch mehrfach, Beenden indem statt wippen wieder lang - lang rückwärts im Zick-Zack" }, 
+  { title: "Zählung", text: "lang - lang - schnell/schnell          ... ⬋⬉⬋⬉", url: "W7PnrV3R-qxRVfpvz.html" },
+  { title: "Zick ⬉", text: "Start 45° zur Wand hin, links vor, lang - lang, schnell/schnell in kleinen Schritten (seitwärts und 90° drehen im Uhrzeigersinn ↻)" },
+  { title: "Zack ⬋", text: "Nun 45° von Wand weg, links zurück, lang - lang, schnell/schnell in kleinen Schritten (seitwärts und 90° zurückdrehen ↺), jetzt sind wir wieder wie beim Start, etc. Zick-Zack ..." },
+  { title: "Outside Turn", text: "Anstelle von vor, öffnen und das lang - lang mehr seitwärts machen und die Dame im Uhrzeigersinn ↻ unter dem linken Arm drehen lassen, auch mehrfach. Beenden indem sich der Herr der Dame wieder in den Weg stellt" },
+  { title: "Natural Pivot", text: "Anstelle von zurück, auf zurück lang - lang wippend und dabei ca 180° drehen ↺, schnell/schnell, dies auch mehrfach, Beenden indem statt wippen wieder lang - lang rückwärts im Zick-Zack" }, 
 ]
 },
 {
-head: { title: "HOB Rumba", sub: "Outside turn, Opening out (Cucaracha)" },
+head: { title: "HOB Rumba", sub: "👩 Outside turn ↻, Opening out (Cucaracha) ..., 👩 Inside turn ↺, Fan" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "4-1 2 3 4-1 2 3", url: "MZTtB6Lc-qxRVfpvz.html" }, 
@@ -249,12 +250,12 @@ tips: [
 ]
 },
 {
-head: { title: "HOB Tango", sub: "Linksdrehung mit Habanera" },
+head: { title: "HOB Tango", sub: "Linksdrehung ↺ mit Habanera" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "?",  url: "hb3a67G5-qxRVfpvz.html" },
-  { title: "Teil 1", text: "LLSSL, LL geht vor in einem Halbmond nach Links, mit SS dreht der Herr weiter und stellt sich vor die Dame und L geht nach hinten" },
-  { title: "Teil 2", text: "LSSLRPS, L (Wippe vor) SS (Wippe zurück/vor) L (Wippe zurück) RPS rück platz schliessen" }
+  { title: "Teil 1", text: "LLSSL, LL geht vor in einem Halbkreis nach Links, mit SS dreht der Herr weiter nach Links und stellt sich vor die Dame und L geht nach hinten" },
+  { title: "Teil 2", text: "LSSLRPS, L (Wippe vor) SS (Wippe zurück/vor) L (Wippe zurück) RPS Rück Platz schliessen" }
 ]
 },
 {
