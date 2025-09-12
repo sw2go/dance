@@ -98,7 +98,7 @@ tips: [
 ]
 },
 {
-head: { title: "FKA Englisch Walzer", sub: "Diagonale, Spin Turn" },
+head: { title: "FKA Englisch Walzer", sub: "Diagonale (Y), Spin Turn" },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 1 2 3", url: "VvXkdpN4-qxRVfpvz.html" },
@@ -436,7 +436,7 @@ tips: [
 ]
 },
 {
-head: { title: "HOG Walzer", sub: "Spin-Turn, 1/2 Turn mit Hesitation, Dreieck, ..." },
+head: { title: "HOG Englisch Walzer", sub: "Spin-Turn, 1/2 Turn mit Hesitation, Dreieck, ..." },
 feet:  "RF-F.svg",
 tips: [
   { title: "Spin",           text: "" },
