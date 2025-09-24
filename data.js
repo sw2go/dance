@@ -171,14 +171,17 @@ tips: [
 ]
 },
 {
-head: { title: "HOA Cha-Cha-Cha", sub: "" },
+head: { title: "HOA Cha-Cha-Cha", sub: "Side-by-Side Kombination" },
 feet:  "RF-R.svg",
 tips: [
-  { title: "Zählung", text: "1 2 3 cha-cha-cha 2 3 cha-cha-cha 2 3", url: "nTuQqhmE-qxRVfpvz.html" }
+  { title: "Zählung", text: "1 2 3 cha-cha-cha 2 3 cha-cha-cha 2 3", url: "nTuQqhmE-qxRVfpvz.html" },
+  { title: "Open Basic", text: "dann Herr daneben mit Schritt - Tap" },
+  { title: "Ronde Chasse", text: "dann links vor, Halbmond zurück, cha cha cha", url: "https://youtu.be/BIXTfVLPaRI" },
+    { title: "Hipwist", text: "Rück Platz Hiptwist Cha" },
 ]
 },
 {
-head: { title: "HOA Salsa", sub: "" },
+head: { title: "HOA Salsa", sub: "Sombrero" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "v5ghOb1a-qxRVfpvz.html" }
@@ -191,7 +194,7 @@ tips: [
   { title: "Zählung", text: "Rück Platz Wechselschritt Wechselschritt", url: "NwEqD2Kh-qxRVfpvz.html" },
   { title: "D. Cross Whip", text: "Offener Grundschritt, Nach Rück-Platz mit dem Wechselschritt 90° zur Dame drehen, 1* - 2 - 3* - 4 (* = rechts nach hinten Einkreuzen auf Spitze), und mit Wechselschritt nach rechts" },
   { title: "2 Kicks", text: "Rück Platz a Kick, Rück Platz a Kick" },
-  { title: "Promenade", text: "WS nach links (einander zugewandt), WS nach vorne (in Tranzrichtung), WS nach links, WS nach vorne, etc. ... auf WS nach links mit Outside turn abschliessen" },
+  { title: "Promenade", text: "WS nach links (einander zugewandt), WS nach vorne (in Tanzrichtung), WS nach links, WS nach vorne, etc. ... auf WS nach links mit Outside turn abschliessen" },
   { title: "Outside turn", text: "Mit Beginn des Wechselschritt nach links Dame auslösen und rausschicken, Wechselschritt nach rechts, Rück Platz (Dame ist draussen),dann über WS WS Dame wieder zurückholen" },
 ] 
 },
@@ -259,35 +262,36 @@ tips: [
 ]
 },
 {
-head: { title: "HOC Cha-Cha-Cha", sub: "" },
+head: { title: "HOC Cha-Cha-Cha", sub: "Cuban Breaks" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 cha-cha-cha 2 3 cha-cha-cha 2 3", url: "tjmPLvBY-qxRVfpvz.html" }
 ]
 },
 {
-head: { title: "HOC Foxtrott", sub: "" },
+head: { title: "HOC Foxtrott", sub: "Promenade mit Drehung Dame/Herr" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "slow slow quick quick, slow slow quick quick", url: "q59PijMB-qxRVfpvz.html" }
 ]
 },
 {
-head: { title: "HOC Samba", sub: "" },
+head: { title: "HOC Samba", sub: "Contra Botafogos" },
 feet:  "LF-L.svg",
 tips: [
-  { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "jYNwDdTy-qxRVfpvz.html" }
+  { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "jYNwDdTy-qxRVfpvz.html" },
+  { title: "Einleitung", text: "Kick-Ball Change" }
 ]
 },
 {
-head: { title: "HOC Wiener Walzer", sub: "" },
+head: { title: "HOC Wiener Walzer", sub: "Rechtsdrehung, Linksdrehung" },
 feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "?", url: "wFZzKBQb-qxRVfpvz.html" }
 ]
 },
 {
-head: { title: "HOC Jive", sub: "" },
+head: { title: "HOC Jive", sub: "Conversation Piece" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "Rück Platz Wechselschritt Wechselschritt", url: "bH1Yt2I3-qxRVfpvz.html" }
