@@ -25,7 +25,7 @@
 	  </summary>
 	  <div>
 		<div v-for="tip in item.tips" class="tip">
-		  <div>{{tip.title}}<span v-if="tip.title != ''">:</span></div><div>{{tip.text}}</div>
+		  <div>{{tip.title}}<span v-if="tip.title != '' && tip.text !=''">:</span></div><div>{{tip.text}}</div>
 		  <div v-if="tip.url != undefined && !tip.url.startsWith('http')"><a :href="baseurl + tip.url"> Film</a></div>
 		  <div v-if="tip.url != undefined && tip.url.startsWith('http')"><a :href="tip.url"> Film</a></div>
 		</div>

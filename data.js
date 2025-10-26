@@ -326,10 +326,26 @@ tips: [
 ]
 },
 {
-head: { title: "HOD Bachata", sub: "" },
+head: { title: "HOD Bachata", sub: "Promenade, Körbli-Stuff" },
 feet:  "LF-L.svg",
 tips: [
-  { title: "Zählung", text: "1 2 3 tap 5 6 7 tap", url: "xJlGgJ16-qxRVfpvz.html" }
+  { title: "Grundschritt",  text: "1 2 3 tap, 5 6 7 tap", url: "xJlGgJ16-qxRVfpvz.html" },
+  { title: "Vor-Zurück",    text: "Einfach mit dem Tap Fuss vor, beachte: Den Tap macht man immer da wo der Fuss gerade ist (kein Schritt)" },
+  { title: "Drehungen",     text: "Dame wie Herr können unter dem Arm des Herrn durch und wieder zurück" },
+  { title: "Promenade",     text: "" },
+  { title: " Vorbereitung",  text: "Die Hand der Dame hinter ihrem Rücken an die rechte Hand des Herrn übergeben" },
+  { title: "Drehung+Flirt", text: "Dame dreht und ihre Hand hinter den Kopf des Herrn bringen und loslassen " },
+  { title: "Promenade",     text: "Gemeinsam gehen, 1 2 3 (auf 3 drehen und Tap in die andere Richtung)" },
+  { title: "Richtungsw.",   text: "Wenn Herr links vor geht beim 3. Schritt links an Dame 90 vorbei drehen" },
+  { title: "Richtungsw.",   text: "Wenn Herr rechts zurück geht beim 3. Schritt die Dame 90 rechts vorbei drehen" },
+  { title: "Körbli-Stuff",  text: "" },
+  { title: "Vorbereitung",  text: "Inside Turn und dann 2 Hand Haltung" },
+  { title: "Körbli",        text: "Dame ins Körbli" },
+  { title: "Vor-Zurück",    text: "Zusammen im Körbli vor und zurück" },
+  { title: "Hin und her",   text: "Dame von rechts im Körbli nach links in Körbli und wieder zurück" },
+  { title: "Ausdrehen",     text: "Mit der linken an Schulter von Dame und auswickeln" },
+  { title: "Frisbee",       text: "Mit der rechten Hand Dame nach aussen drehen und loslassen" }
+  
 ]
 },
 {
