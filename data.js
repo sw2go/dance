@@ -298,10 +298,15 @@ tips: [
 ]
 },
 {
-head: { title: "HOD Night Club Two Step", sub: "" },
+head: { title: "HOD Night Club Two Step", sub: "Box (4-Eck)" },
 feet:  "LF-B.svg",
 tips: [
-  { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "0i3OKHh5-qxRVfpvz.html" }
+  { title: "Zählung",     text: "1 2 3 - 5 6 7 -", url: "0i3OKHh5-qxRVfpvz.html" },
+  { title: "Einleitung",  text: "Dame inside turn" },
+  { title: "Shoulder-S.", text: "Herr seitlich der Dame mit kleinem Rock Step 45° nach vorne rechts ... vorne links etc." },
+  { title: "4-Eck Start", text: "wenn links, statt mit kleinem Rock step (mit rechtem Fuss) entschlossen vorwärts etc." },
+  { title: "Etc.",        text: "die Seitenbewegung ist dann parallel zur Wand, jedes Mal 90° weiter ..." } 
+  
 ]
 },
 {
@@ -324,10 +329,16 @@ tips: [
 ]
 },
 {
-head: { title: "HOD Discofox", sub: "" },
+head: { title: "HOD Discofox", sub: "Fenster mit Brezel" },
 feet:  "LF-F.svg",
 tips: [
-  { title: "Zählung", text: "1 2 tap 1 2 tap", url: "FaM0gr7z-qxRVfpvz.html" }
+  { title: "Zählung",   text: "1 2 tap 1 2 tap", url: "FaM0gr7z-qxRVfpvz.html" },
+  { title: "Fenster",   text: "Start in 2 Handhaltung" },
+  { title: "Teil 1",    text: "rechten Arm heben und Dame im Uhrzeigersinn ↻ nach rechts eindrehen" },
+  { title: "Teil 2",    text: "beide Arme heben, Dame unten durch im Uhrzeigersinn weiterdrehen" },
+  { title: "Teil 3",    text: "beide Arme oben lassen, Herr unten durch" },
+  { title: "Brezel",    text: "linken Arm heben, rechten Arm unten, Dame weiter unten durch im Uhrzeigersinn" },
+  { title: "Abschluss", text: "dann Dame weiter mit rechter Hand hinter dem Rücken des Herrn durchschieben" }
 ]
 },
 {
