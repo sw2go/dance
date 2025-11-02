@@ -321,9 +321,9 @@ head: { title: "HOD Tango", sub: "Outside Swivel" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung",    text: "?", url: "ZG3shcJn-qxRVfpvz.html" },
-  { title: "Einleitung", text: "Öffnen wie für Promenade, Slow (wait), (ich glaube Slow, Quck Quick Slow) 4 Schritte links aussen vorbei, Dame am Ende rückwärts" },
-  { title: "Swivel",     text: "Beginn Herr steht auf vorne rechts, Dame auf hinten links, dann 3 Swivel Quick - Quick" },
-  { title: "Abschluss",  text: "Beim 3.ten Swivel (Herr wippt zurück und belastet linken Fuss hinten), innen beginnend Schritt, Tap, Slow, Ab-Schluss Schritt"  },
+  { title: "Einleitung", text: "Öffnen wie für Promenade, Slow (wait), 4 Schritte SQQS der Letzte links aussen vorbei, Dame am Ende rückwärts" },
+  { title: "Swivel",     text: "Beginn Herr steht auf vorne rechts, Dame auf hinten links, dann 4 Swivel Quick - Quick" },
+  { title: "Abschluss",  text: "Beim 4.ten Swivel (Herr wippt vor und belastet rechten Fuss vorne), dann aus Fuss vor - Tap, Slow, Ab-Schluss Schritt"  },
   
   { title: "Rythmus", url: "https://youtu.be/GH6uMJdGkvE" }
 ]
@@ -342,7 +342,7 @@ tips: [
 ]
 },
 {
-head: { title: "HOD Bachata", sub: "Outside, Inside Turn, Promenade, Körbli-Stuff" },
+head: { title: "HOD Bachata", sub: "Outside, Inside Turn, Promenade, Körbli-Stuff, auch Fenster mit Brezel möglich" },
 feet:  "LF-L.svg",
 tips: [
   { title: "Grundschritt",  text: "1 2 3 tap, 5 6 7 tap", url: "xJlGgJ16-qxRVfpvz.html" },
@@ -351,7 +351,7 @@ tips: [
   { title: "Outside",       text: "Nach links gehen vorwärts auf 1 90° auf 2 180° und rückwärts auf 3 270° drehen dann bereits rechts den Tap in die Gegenrichtung" },
   { title: "Inside",        text: "Nach dem Outside kann man direkt zurück mit dem Inside turn oder auch normal Grundschritt weiter" },
   { title: "Promenade",     text: "" },
-  { title: " Vorbereitung",  text: "Die Hand der Dame hinter ihrem Rücken an die rechte Hand des Herrn übergeben" },
+  { title: "Vorbereitung",  text: "Die Hand der Dame hinter ihrem Rücken an die rechte Hand des Herrn übergeben" },
   { title: "Drehung+Flirt", text: "Dame dreht und ihre Hand hinter den Kopf des Herrn bringen und loslassen " },
   { title: "Promenade",     text: "Gemeinsam nach rechts gehen, 1 2 3 (auf 3 drehen und Tap in die andere Richtung)" },
   { title: "Richtungsw.",   text: "Wenn Herr links vor geht beim 3. Schritt links an Dame 90 vorbei drehen" },
