@@ -310,7 +310,7 @@ tips: [
 ]
 },
 {
-head: { title: "HOD Quickstep", sub: "" },
+head: { title: "HOD Quickstep", sub: "Lock Chasse" },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "?", url: "ezvQXSBu-qxRVfpvz.html" }
@@ -348,14 +348,15 @@ tips: [
   { title: "Grundschritt",  text: "1 2 3 tap, 5 6 7 tap", url: "xJlGgJ16-qxRVfpvz.html" },
   { title: "Vor-Zurück",    text: "Einfach mit dem Tap Fuss vor, beachte: Den Tap macht man immer da wo der Fuss gerade ist (kein Schritt)" },
   { title: "Drehungen",     text: "Outside und Inside Turn, Dame wie Herr können unter dem Arm des Herrn hin (Outside) und zurück (Inside) drehen" },
-  { title: "Outside",       text: "Nach links gehen vorwärts auf 1 90° auf 2 180° und rückwärts auf 3 270° drehen dann bereits rechts den Tap in die Gegenrichtung" },
-  { title: "Inside",        text: "Nach dem Outside kann man direkt zurück mit dem Inside turn oder auch normal Grundschritt weiter" },
+  { title: "Outside Turn",  text: "Nach links gehen vorwärts auf 1 90° auf 2 180° und rückwärts auf 3 270° drehen dann bereits rechts den Tap in die Gegenrichtung" },
+  { title: "Inside Turn",   text: "Nach dem Outside kann man direkt zurück mit dem Inside turn oder auch normal Grundschritt weiter" },
   { title: "Promenade",     text: "" },
   { title: "Vorbereitung",  text: "Die Hand der Dame hinter ihrem Rücken an die rechte Hand des Herrn übergeben" },
-  { title: "Drehung+Flirt", text: "Dame dreht und ihre Hand hinter den Kopf des Herrn bringen und loslassen " },
-  { title: "Promenade",     text: "Gemeinsam nach rechts gehen, 1 2 3 (auf 3 drehen und Tap in die andere Richtung)" },
-  { title: "Richtungsw.",   text: "Wenn Herr links vor geht beim 3. Schritt links an Dame 90 vorbei drehen" },
-  { title: "Richtungsw.",   text: "Wenn Herr rechts zurück geht beim 3. Schritt die Dame 90 rechts vorbei drehen" },
+  { title: "Drehung+Flirt", text: "Wenn Herr nach links geht, dreht er die Dame und führt ihre Hand hinter seien Kopf und lässt los, dann " },
+  { title: "Promenade",     text: "gemeinsam nach rechts gehen, 1 2 3 (auf 3 drehen und Tap in die andere Richtung) u.s.w. dann " },
+  { title: "Richtungsw.",   text: "wenn Herr links vor geht, schneidet er beim 3. Schritt rechts der Dame den weg ab, 1. 90° Richtungsänderung" },
+  { title: "Richtungsw.",   text: "wenn Herr rechts vor geht dreht er beim 3. Schritt die Dame rechts vor sich weg, 2. 90° Richtungsänderung" },
+  { title: "Richtungsw.",   text: "etc. sooft man will. Am Ende auf dem Weg nach links die Hand der Dame nehmen und nach rechts dann einen Inside Turn machen" },
   { title: "Körbli-Stuff",  text: "" },
   { title: "Vorbereitung",  text: "Inside Turn und dann 2 Hand Haltung" },
   { title: "Körbli",        text: "Dame ins Körbli" },
@@ -498,17 +499,18 @@ tips: [
 ]
 },
 {
-head: { title: "HOG Bachata", sub: "Würger" },
-feet:  "LF-L.svg",
-tips: [
-  { title: "Zählung", text: "1 2 3 tap 5 6 7 tap", url: "gJfWFjRv-qxRVfpvz.html" }
-]
-},
-{
 head: { title: "HOG Bachata", sub: "" },
 feet:  "LF-L.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 tap 5 6 7 tap", url: "ihBUO2vq-qxRVfpvz.html" }
+]
+},
+{
+head: { title: "HOG Bachata", sub: "Würger" },
+feet:  "LF-L.svg",
+tips: [
+  { title: "Zählung", text: "1 2 3 tap 5 6 7 tap", url: "gJfWFjRv-qxRVfpvz.html" },
+  { title: "Würger", text: "Start aus Grüezihaltung" }
 ]
 },
 {
