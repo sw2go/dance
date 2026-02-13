@@ -379,7 +379,10 @@ head: { title: "HOE Englisch Walzer", sub: "Impetus - Reef (Flechte)" },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 1 2 3", url: "twdPNeAg-qxRVfpvz.html" },
-  { title: "youtube", text: "..", url: "https://www.youtube.com/watch?v=hLWmJ_NyzJw" }
+  { title: "Einleitung", text: "½ Spin turn, generell hoch tief hilft!", url: "https://www.youtube.com/watch?v=hLWmJ_NyzJw" },
+  { title: "Impetus", text: "links zurück, auf linker Ferse drehen (und rechten Fuss dazuziehen)" },
+  { title: "Flechte", text: "links vorwärts, auf 2 nach links ↺ drehen, 3 zurück" },
+  { title: "Flechte", text: "links vorwärts, auf 2 nach links ↺ drehen, 3 zurück" },
 ]
 },
 {
@@ -461,7 +464,7 @@ tips: [
 ]
 },
 {
-head: { title: "HOG Quickstep", sub: "Spin-Turn, 1/2 Turn mit Hesitation, Dreieck, Lockstep ..." },
+head: { title: "HOG Quickstep", sub: "Spin-Turn, ½ Turn mit Hesitation, Dreieck, Lockstep ..." },
 feet:  "RF-F.svg",
 tips: [
   { title: "Tipp",    text: "Mit dem rechten Arm führen, nicht mit der linken Hand (ev. sogar links loslassen, Dame versetzt weit rechts im Arm", url: "Fm1Oly20-qxRVfpvz.html" },
@@ -475,7 +478,7 @@ tips: [
 ]
 },
 {
-head: { title: "HOG Englisch Walzer", sub: "Spin-Turn, 1/2 Turn mit Hesitation, Dreieck, ..." },
+head: { title: "HOG Englisch Walzer", sub: "Spin-Turn, ½ Turn mit Hesitation, Dreieck, ..." },
 feet:  "RF-F.svg",
 tips: [
   { title: "Spin",           text: "" },
@@ -513,6 +516,67 @@ tips: [
   { title: "Würger", text: "Start aus Grüezihaltung" }
 ]
 },
+{
+head: { title: "HK9 25-26 Cha-Cha-Cha", sub: "-" },
+feet:  "RF-R.svg",
+tips: [
+  { title: "Zählung", text: "-", url: "VKEPaY18-qxRVfpvz.html" },
+  { title: "-", text: "-" }
+]
+},
+{
+head: { title: "HK9 25-26 Discofox", sub: "-" },
+feet:  "RF-R.svg",
+tips: [
+  { title: "Zählung", text: "-", url: "cP5drKeT-qxRVfpvz.html" },
+  { title: "-", text: "-" }
+]
+},
+{
+head: { title: "HK9 25-26 Englisch Walzer", sub: "-" },
+feet:  "RF-R.svg",
+tips: [
+  { title: "Zählung", text: "-", url: "cZll6nuA-qxRVfpvz.html" },
+  { title: "-", text: "-" }
+]
+},
+
+{
+head: { title: "HK9 25-26 Jive", sub: "-" },
+feet:  "LF-B.svg",
+tips: [
+  { title: "Zählung", text: "-", url: "Vb0nmAHr-qxRVfpvz.html" },
+  { title: "-", text: "-" }
+]
+},
+{
+head: { title: "HK9 25-26 Night Club Two Step", sub: "-" },
+feet:  "LF-B.svg",
+tips: [
+  { title: "Zählung", text: "-", url: "joWlyoDu-qxRVfpvz.html" },
+  { title: "-", text: "-" }
+]
+},
+
+{
+head: { title: "HK9 25-26 Quickstep", sub: "-" },
+feet:  "LF-B.svg",
+tips: [
+  { title: "Zählung", text: "-", url: "ZaI3Dbse-qxRVfpvz.html" },
+  { title: "-", text: "-" }
+]
+},
+{
+head: { title: "HK9 25-26 Samba", sub: "-" },
+feet:  "LF-B.svg",
+tips: [
+  { title: "Zählung", text: "-", url: "Y8ebSAt9-qxRVfpvz.html" },
+  { title: "-", text: "-" }
+]
+},
+
+
+
 {
 head: { title: "Liebscher Bracht", sub: "" },
 feet:  "LF-L.svg",
