@@ -526,7 +526,7 @@ tips: [
 },
 {
 head: { title: "HK9 25-26 Discofox", sub: "-" },
-feet:  "RF-R.svg",
+feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "-", url: "cP5drKeT-qxRVfpvz.html" },
   { title: "-", text: "-" }
@@ -534,7 +534,7 @@ tips: [
 },
 {
 head: { title: "HK9 25-26 Englisch Walzer", sub: "-" },
-feet:  "RF-R.svg",
+feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "-", url: "cZll6nuA-qxRVfpvz.html" },
   { title: "-", text: "-" }
@@ -557,10 +557,17 @@ tips: [
   { title: "-", text: "-" }
 ]
 },
-
+{
+head: { title: "HK9 26 Pendelwalzer", sub: "-" },
+feet:  "LF-L.svg",
+tips: [
+  { title: "Zählung", text: "-", url: "yjVgzQXT-qxRVfpvz.html" },
+  { title: "-", text: "-" }
+]
+},
 {
 head: { title: "HK9 25-26 Quickstep", sub: "-" },
-feet:  "LF-B.svg",
+feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "-", url: "ZaI3Dbse-qxRVfpvz.html" },
   { title: "-", text: "-" }
@@ -568,13 +575,20 @@ tips: [
 },
 {
 head: { title: "HK9 25-26 Samba", sub: "-" },
-feet:  "LF-B.svg",
+feet:  "LF-L.svg",
 tips: [
   { title: "Zählung", text: "-", url: "Y8ebSAt9-qxRVfpvz.html" },
   { title: "-", text: "-" }
 ]
 },
-
+{
+head: { title: "HK9 25-26 Tango", sub: "-" },
+feet:  "LF-F.svg",
+tips: [
+  { title: "Zählung", text: "-", url: "VKtW8NWc-qxRVfpvz.html" },
+  { title: "-", text: "-" }
+]
+},
 
 
 {
