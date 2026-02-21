@@ -63,7 +63,7 @@ tips: [
 ]
 },
 {
-head: { title: "AK2 Salsa", sub: "" },
+head: { title: "AK2 Salsa", sub: "Grundschritt, Damensolo (Rechtsdrehung)" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "nJzAC8dy-qxRVfpvz.html" }
@@ -136,10 +136,11 @@ tips: [
 ]
 },
 {
-head: { title: "FKB Salsa", sub: "" },
+head: { title: "FKB Salsa", sub: "Offener Grundschritt, Rechtsdrehung, Dile que no" },
 feet:  "LF-B.svg",
 tips: [
-  { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "2lwufg9E-qxRVfpvz.html" }
+  { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "2lwufg9E-qxRVfpvz.html" },
+  { title: "Dile que no", text: "Dame in den rechten Arm nehmen, Herr links vor, Dame rechts zurück" }
 ]
 },
 {
@@ -177,14 +178,17 @@ tips: [
   { title: "Zählung", text: "1 2 3 cha-cha-cha 2 3 cha-cha-cha 2 3", url: "nTuQqhmE-qxRVfpvz.html" },
   { title: "Open Basic", text: "dann Herr daneben mit Schritt - Tap" },
   { title: "Ronde Chasse", text: "dann links vor, Halbmond zurück, cha cha cha", url: "https://youtu.be/BIXTfVLPaRI" },
-    { title: "Hipwist", text: "Rück Platz Hiptwist Cha" },
+  { title: "Hipwist", text: "Rück Platz Hiptwist Cha" },
 ]
 },
 {
 head: { title: "HOA Salsa", sub: "Sombrero" },
 feet:  "LF-B.svg",
 tips: [
-  { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "v5ghOb1a-qxRVfpvz.html" }
+  { title: "Zählung", text: "1 2 3 - 5 6 7 -", url: "v5ghOb1a-qxRVfpvz.html" },
+  { title: "Sombrero", text: "Herr links an Dame vorbei und mit der rechten Hand Drehung nach rechts auslösen" },
+  { title: "",         text: "mit der freien Hand die frei Hand der Dame nehmen und beidhändig weiterdrehen" },
+  { title: "",         text: "Hände über die Schultern legen und wie Dile que no abschliessen" }
 ]
 },
 {
@@ -558,7 +562,7 @@ tips: [
 ]
 },
 {
-head: { title: "HK9 26 Pendelwalzer", sub: "-" },
+head: { title: "HK9 26 Wiener Walzer", sub: "Pendel" },
 feet:  "LF-L.svg",
 tips: [
   { title: "Zählung", text: "-", url: "yjVgzQXT-qxRVfpvz.html" },
