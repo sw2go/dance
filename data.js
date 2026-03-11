@@ -578,6 +578,14 @@ tips: [
 ]
 },
 {
+head: { title: "HK9 25-26 Rumba", sub: "-" },
+feet:  "RF-R.svg",
+tips: [
+  { title: "Zählung", text: "-", url: "c2qQs7zY-qxRVfpvz.html" },
+  { title: "-", text: "-" }
+]
+},
+{
 head: { title: "HK9 25-26 Samba", sub: "-" },
 feet:  "LF-L.svg",
 tips: [
