@@ -546,11 +546,14 @@ tips: [
 },
 
 {
-head: { title: "HK9 25-26 Jive", sub: "-" },
+head: { title: "HK9 25-26 Jive", sub: "Windrad" },
 feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "-", url: "Vb0nmAHr-qxRVfpvz.html" },
-  { title: "-", text: "-" }
+  { title: "-", text: "Start aus Grüezihaltung, dann 1-2, 3-4, 5-6, 7-8 (Mann Körbli daneben)" },
+  { title: "-", text: "zusammen rück-platz dann ws ws und rück-platz zusammen auf den andere seite" },
+  { title: "-", text: "dann ws dann beim 2 ws dame ausleeren" }
+  
 ]
 },
 {
@@ -578,11 +581,12 @@ tips: [
 ]
 },
 {
-head: { title: "HK9 25-26 Rumba", sub: "-" },
+head: { title: "HK9 25-26 Rumba", sub: "Alemannias" },
 feet:  "RF-R.svg",
+
 tips: [
   { title: "Zählung", text: "-", url: "c2qQs7zY-qxRVfpvz.html" },
-  { title: "-", text: "-" }
+  { title: "-", text: "-", url: "https://youtu.be/syXqn9yx0nw" }
 ]
 },
 {
