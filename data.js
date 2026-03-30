@@ -544,7 +544,20 @@ tips: [
   { title: "-", text: "-" }
 ]
 },
+{
+head: { title: "HK9 25-26 Foxtrott", sub: "-" },
+feet:  "LF-F.svg",
+tips: [
+  { title: "Zählung", text: "lang lang schnell schnell", url: "WJ3ZUYjC-qxRVfpvz.html" },
+  { title: "-", text: "am Ende von schnell schnell muss Herr Hand der Dame von links an rechts oben übergeben haben (quasi grüezi aber scheibenwischer)" },
+  { title: "-", text: "Dame mit Rechtsdrehung in Würger" },
+  { title: "-", text: "Herr im Kreis vorwärts, Dame im Kreis rückwärts ... solange bis man 1/4 vor Tanzrichtung ist" },
+  { title: "-", text: "Dann Dame weiterdrehen und rechts ins Körbli nehmen, Dann Dame ins Körbli links nehmen etc." },
+  { title: "-", text: "Darauf schauen dass Dame vorne bleibt und nicht hinter den Herrn kommt, vorne hin und her" },
+  { title: "-", text: "Abschluss indem sich der Herr wenn die Dame rechts ist in den Weg stellt und dann zusammen zurück" }
 
+]
+},
 {
 head: { title: "HK9 25-26 Jive", sub: "Windrad" },
 feet:  "LF-B.svg",
