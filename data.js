@@ -564,8 +564,9 @@ feet:  "LF-B.svg",
 tips: [
   { title: "Zählung", text: "-", url: "Vb0nmAHr-qxRVfpvz.html" },
   { title: "-", text: "Start aus Grüezihaltung, dann 1-2, 3-4, 5-6, 7-8 (Mann Körbli daneben)" },
-  { title: "-", text: "zusammen rück-platz dann ws ws und rück-platz zusammen auf den andere seite" },
-  { title: "-", text: "dann ws dann beim 2 ws dame ausleeren" }
+  { title: "-", text: "zusammen Rück-Platz dann WS WS und Rück-Platz zusammen auf den andere seite" },
+  { title: "-", text: "dann WS dann beim 2 WS dame ausleeren" },
+  { title: "-", text: "dann Dame im Uhrzeigersinn Spin und dann zusammen Rück-Platz etc. " },
   
 ]
 },
@@ -590,7 +591,11 @@ head: { title: "HK9 25-26 Quickstep", sub: "-" },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "-", url: "ZaI3Dbse-qxRVfpvz.html" },
-  { title: "-", text: "-" }
+  { title: "-", text: "Nach Spin-Turn dreht Herr weiter und mach Lockstep" },
+  { title: "-", text: "dann 3 Schritte, die ersten 2 rückwärts dann einen zur Seite (links)" },
+  { title: "-", text: "dann 2x Promenade und dann beginnend mit Lang ..." },
+  { title: "Tiple", text: "...  in eine Rechtsdrehung 'einmal hin' und weiterdrehen 'einmal her'" },
+  { title: "-", text: "dann Lockstep" },
 ]
 },
 {
@@ -600,6 +605,14 @@ feet:  "RF-R.svg",
 tips: [
   { title: "Zählung", text: "-", url: "c2qQs7zY-qxRVfpvz.html" },
   { title: "-", text: "-", url: "https://youtu.be/syXqn9yx0nw" }
+]
+},
+{
+head: { title: "HK9 25-26 Salsa", sub: "-" },
+feet:  "LF-L.svg",
+tips: [
+  { title: "Zählung", text: "123-567- auf 1 immer linker Fuss", url: "u0PnR0fY-qxRVfpvz.html" },
+  { title: "-", text: "Beim Salsa " }
 ]
 },
 {
@@ -615,7 +628,7 @@ head: { title: "HK9 25-26 Tango", sub: "-" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "-", url: "VKtW8NWc-qxRVfpvz.html" },
-  { title: "-", text: "-" }
+  { title: "-", text: "" }
 ]
 },
 
