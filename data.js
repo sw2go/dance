@@ -537,11 +537,16 @@ tips: [
 ]
 },
 {
-head: { title: "HK9 25-26 Englisch Walzer", sub: "-" },
+head: { title: "HK9 25-26 Englisch Walzer", sub: "Spin-Turn, Impetus, Chasse, Outside-Turn, Linksdreh." },
 feet:  "RF-F.svg",
 tips: [
   { title: "Zählung", text: "-", url: "cZll6nuA-qxRVfpvz.html" },
-  { title: "-", text: "-" }
+  { title: "Spin Turn",  text: "1 2 3" },
+  { title: "Impetus",    text: "1 2 3 ( Im pet tus ) tus = links vor und den Linken Fuss belasten" },
+  { title: "Chasse",     text: "1 2-und 3 (rechts beginnend , '2-und' sind 2 Schritte im 2. Takt, und Dame auf rückwärts drehen" },
+  { title: "Outside T.", text: "1-und 2 3 (rechts beginnend , '1-und' sind 2 Schritte im 1. Takt, mit 'und' linken Fuss belasten und dann rückwärts" },
+  { title: "Links Dreh.", text: "1 2 3  ganz normal im Fluss weiterdrehen" },
+  { title: "Wechselschritt", text: "1 2 3, ... danach normal weiter in Rechtsdrehung" }
 ]
 },
 {
