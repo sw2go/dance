@@ -382,11 +382,11 @@ tips: [
 head: { title: "HOE Englisch Walzer", sub: "Impetus - Reef (Flechte)" },
 feet:  "RF-F.svg",
 tips: [
-  { title: "Zählung", text: "1 2 3 1 2 3", url: "twdPNeAg-qxRVfpvz.html" },
+  { title: "Zählung", text: "Ipetus 1 2 3, Flechte 1 2 3 4 5 6", url: "twdPNeAg-qxRVfpvz.html" },
   { title: "Einleitung", text: "½ Spin turn, generell hoch tief hilft!", url: "https://www.youtube.com/watch?v=hLWmJ_NyzJw" },
-  { title: "Impetus", text: "links zurück, auf linker Ferse drehen (und rechten Fuss dazuziehen)" },
-  { title: "Flechte", text: "links vorwärts, auf 2 nach links ↺ drehen, 3 zurück" },
-  { title: "Flechte", text: "links vorwärts, auf 2 nach links ↺ drehen, 3 zurück" },
+  { title: "Impetus", text: "1 links zurück, 2 auf linker Ferse drehen (und rechten Fuss dazuziehen), auf 3 links vorwärts" },
+  { title: "Flechte", text: "1 vorwärts, mit 2 nach rechts ↺ auf rückwärts drehen, 3 zurück" },
+  { title: "Flechte", text: "4 zurück, mit 5 nach rechts ↺ auf vorwärts weiter drehen, 6 vorwärts " }
 ]
 },
 {
