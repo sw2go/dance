@@ -293,7 +293,9 @@ tips: [
 head: { title: "HOC Wiener Walzer", sub: "Rechtsdrehung, Linksdrehung" },
 feet:  "RF-R.svg",
 tips: [
-  { title: "Zählung", text: "?", url: "wFZzKBQb-qxRVfpvz.html" }
+  { title: "Zählung", text: "?", url: "wFZzKBQb-qxRVfpvz.html" },
+  { title: "Tipp", text: "Man muss immer versuchen in der Vorwärtsbewegung um den Partner aussen herumzudrehen" },
+  { title: "Tipp", text: "Linksdrehung, Einkreuzen und nach vorne 'nose over toes'" }
 ]
 },
 {
