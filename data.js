@@ -537,6 +537,25 @@ tips: [
 ]
 },
 {
+head: { title: "HK9 25-26 Discofox", sub: "Zick-Zack Varianten 1, 2 und 3 (Promenade)" },
+feet:  "LF-F.svg",
+tips: [
+  { title: "Zick-Zack 1", text: "normal 1 2 und 3 bzw. im Zick-Zack 1 2 3 4" },
+  { title: "", text: "Dame schicken, dann zurück, dann ..." },
+  { title: "", text: "auf 1 Zick-Zack (beginnend nach links →) Zählung 1 2 3 4" },
+  { title: "", text: "Der Herr läuft in dieser Zeit auch einfach rückwärts 1 2 3 4, dann ..." },
+  { title: "Zick-Zack 2", text: "auf 1 die Dame schicken, dann zurück und Grüezi Haltung, dann ..." },
+  { title: "", text: "wie oben Zick-Zack 1 2 3 4 " },
+  { title: "Zick-Zack 3", text: "Start in 2 Hand-Haltung" },
+  { title: "", text: "Herr links unten durch, linke Hand etwas höher halten" },
+  { title: "", text: "Damen Flirt, damit linke Hand in Grüezi-Haltung kommt" },
+  { title: "", text: "Dame an die linke Seite führen" },
+  { title: "", text: "dann Dame vorne durch ins Körbli rechts nehmen, zusammen Tap zurück, dann .." },
+  { title: "", text: "auf 1 Zick-Zack Promenade (beginnend nach innen) Zählung 1 2 3 4" }
+  
+]
+},
+{
 head: { title: "HK9 25-26 Englisch Walzer", sub: "Spin-Turn, Impetus, Chasse, Outside-Turn, Linksdreh." },
 feet:  "RF-F.svg",
 tips: [
