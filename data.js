@@ -235,14 +235,16 @@ tips: [
 ]
 },
 {
-head: { title: "HOB Foxtrott", sub: "Zick-Zack, 👩 Outside Turn ↻, Natural Pivot" },
+head: { title: "HOB Foxtrott", sub: "Zick-Zack, 👩 Outside Turn ↻, Natural Turn" },
 feet:  "LF-F.svg",
 tips: [
   { title: "Zählung", text: "lang - lang - schnell/schnell          ... ⬋⬉⬋⬉", url: "W7PnrV3R-qxRVfpvz.html" },
   { title: "Zick ⬉", text: "Start 45° zur Wand hin, links vor, lang - lang, schnell/schnell in kleinen Schritten (seitwärts und 90° drehen im Uhrzeigersinn ↻)" },
   { title: "Zack ⬋", text: "Nun 45° von Wand weg, links zurück, lang - lang, schnell/schnell in kleinen Schritten (seitwärts und 90° zurückdrehen ↺), jetzt sind wir wieder wie beim Start, etc. Zick-Zack ..." },
   { title: "Outside Turn", text: "Anstelle von vor, öffnen und das lang - lang mehr seitwärts machen und die Dame im Uhrzeigersinn ↻ unter dem linken Arm drehen lassen, auch mehrfach. Beenden indem sich der Herr der Dame wieder in den Weg stellt" },
-  { title: "Natural Pivot", text: "Anstelle von zurück, auf zurück lang - lang wippend und dabei ca 180° drehen ↺, schnell/schnell, dies auch mehrfach, Beenden indem statt wippen wieder lang - lang rückwärts im Zick-Zack" }, 
+  { title: "Natural Turn", text: "Anstelle von zurück, auf zurück lang - lang wippend (Rückwärts-Wiegeschritt) und dabei ca 180° drehen ↻, schnell/schnell, dies auch mehrfach, Beenden indem statt wippen wieder lang - lang rückwärts im Zick-Zack" }, 
+  { title: "", text: "" },
+  { title: "Linksdrehung", text: "Wie Natural Turn, aber der Herr dreht über den Vorwärts-Wiegeschritt nach links ↺." },  
 ]
 },
 {
@@ -385,7 +387,7 @@ tips: [
   { title: "Zählung", text: "Ipetus 1 2 3, Flechte 1 2 3 4 5 6", url: "twdPNeAg-qxRVfpvz.html" },
   { title: "Einleitung", text: "½ Spin turn, generell hoch tief hilft!", url: "https://www.youtube.com/watch?v=hLWmJ_NyzJw" },
   { title: "Impetus", text: "1 links zurück, 2 auf linker Ferse drehen (und rechten Fuss dazuziehen), auf 3 links vorwärts" },
-  { title: "Flechte", text: "1 vorwärts, mit 2 nach rechts ↺ auf rückwärts drehen, 3 zurück" },
+  { title: "Flechte", text: "1 rechts vorwärts, mit 2 nach rechts ↺ auf rückwärts drehen, 3 zurück" },
   { title: "Flechte", text: "4 zurück, mit 5 nach rechts ↺ auf vorwärts weiter drehen, 6 vorwärts " }
 ]
 },
